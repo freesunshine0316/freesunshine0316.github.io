@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Publications([Google Scholar Profile](https://scholar.google.com/citations?user=yWZdmLYAAAAJ&hl=en))"
+title: "Publications [Google Scholar Profile](https://scholar.google.com/citations?user=yWZdmLYAAAAJ&hl=en)"
 permalink: /publications/
 author_profile: true
 ---
@@ -49,7 +49,7 @@ In <i>Proceedings of the 55th Annual Meeting of the Association for Computationa
 
 ## 2016
 
-* Word Embedding, Sense Embedding and their Application to Word Sense Induction [pdf()]. <br>
+* Word Embedding, Sense Embedding and their Application to Word Sense Induction \[[pdf]()\]. <br>
 Linfeng Song. Area Paper. [slides]()
 * [AMR-to-text generation as a Traveling Salesman Problem. Linfeng Song, Yue Zhang, Xiaochang Peng, Zhiguo Wang and Daniel Gildea]().
 In <i>Proceedings of the 2018 Conference on Empirical Methods in Natural Language Processing</i> (EMNLP-16).
