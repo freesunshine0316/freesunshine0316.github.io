@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Publications [Google Scholar Profile](https://scholar.google.com/citations?user=yWZdmLYAAAAJ&hl=en)"
+title: "Publications [(Google Scholar Profile)](https://scholar.google.com/citations?user=yWZdmLYAAAAJ&hl=en)"
 permalink: /publications/
 author_profile: true
 ---
