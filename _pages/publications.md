@@ -1,9 +1,11 @@
 ---
 layout: archive
-title: "Publications [(Google Scholar Profile)](https://scholar.google.com/citations?user=yWZdmLYAAAAJ&hl=en)"
+title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+
+[Google Scholar Profile](https://scholar.google.com/citations?user=yWZdmLYAAAAJ&hl=en)
 
 ## 2019
 
@@ -16,7 +18,7 @@ In <i>Transaction of ACL 2019</i> (TACL 2019).
 * [Exploring Graph-structured Passage Representation for Multi-hop Reading Comprehension with Graph Neural Networks]() \[[bib]()\] <br>
 <b>Linfeng Song</b>, Zhiguo Wang, Mo Yu, Yue Zhang, Radu Florian and Daniel Gildea.
 In <i>arXiv preprint arXiv:1809.02040</i>.
-* [Neural Transition-based Syntactic Linearization]() \[[bib]()\] </br>
+* [Neural Transition-based Syntactic Linearization]() \[[bib]()\] <br>
 <b>Linfeng Song</b>, Yue Zhang and Daniel Gildea.
 In <i>Proceedings of the 2018 Conference on Natural Language Generation</i> (INLG 2018).
 * [N-ary Relation Extraction using Graph State LSTM]() \[[bib]()\] <br>
