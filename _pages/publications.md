@@ -19,19 +19,19 @@ In <i>arXiv preprint arXiv:1809.02040</i>.
 * [Neural Transition-based Syntactic Linearization]() \[[bib]()\] </br>
 <b>Linfeng Song</b>, Yue Zhang and Daniel Gildea.
 In <i>Proceedings of the 2018 Conference on Natural Language Generation</i> (INLG 2018).
-* [N-ary Relation Extraction using Graph State LSTM]() \[[bib]()\] </br>
+* [N-ary Relation Extraction using Graph State LSTM]() \[[bib]()\] <br>
 <b>Linfeng Song</b>, Yue Zhang, Zhiguo Wang and Daniel Gildea.
 In <i>Proceedings of the 2018 Conference on Empirical Methods in Natural Language Processing</i> (EMNLP 2018).
-* [A Graph-to-Sequence Model for AMR-to-Text Generation]() \[[bib]()\] </br>
+* [A Graph-to-Sequence Model for AMR-to-Text Generation]() \[[bib]()\] <br>
 <b>Linfeng Song</b>, Yue Zhang, Zhiguo Wang and Daniel Gildea.
 In <i>Proceedings of the 56th Annual Meeting of the Association for Computational Linguistics</i> (ACL 2018).
-* [Sentence-State LSTM for Text Representation]() \[[bib]()\] </br>
+* [Sentence-State LSTM for Text Representation]() \[[bib]()\] <br>
 Yue Zhang, Qi Liu and <b>Linfeng Song</b>.
 In <i>Proceedings of the 56th Annual Meeting of the Association for Computational Linguistics</i> (ACL 2018).
-* [Sequence-to-sequence Models for Cache Transition Systems]() \[[bib]()\] </br>
+* [Sequence-to-sequence Models for Cache Transition Systems]() \[[bib]()\] <br>
 Xiaochang Peng, <b>Linfeng Song</b>, Daniel Gildea and Giorgio Satta.
 In <i>Proceedings of the 56th Annual Meeting of the Association for Computational Linguistics</i> (ACL 2018).
-* [Leveraging Context Information for Natural Question Generation]() \[[bib]()\] </br>
+* [Leveraging Context Information for Natural Question Generation]() \[[bib]()\] <br>
 <b>Linfeng Song</b>, Zhiguo Wang, Wael Hamza, Yue Zhang and Daniel Gildea.
 In <i>Proceedings of the 2018 Conference of the North American Chapter of the Association for Computational Linguistics</i> (NAACL 2018).
 
