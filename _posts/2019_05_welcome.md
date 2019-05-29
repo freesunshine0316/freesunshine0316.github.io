@@ -1,20 +1,14 @@
 ---
-title: 'Blog Post number 1'
-date: 2012-08-14
-permalink: /posts/2012/08/blog-post-1/
+title: 'Welcome to my blog'
+date: 2019-05-29
+permalink: /posts/2019/05/welcome/
 tags:
-  - cool posts
-  - category1
-  - category2
+  - general
 ---
 
-This is a sample blog post. Lorem ipsum I can't remember the rest of lorem ipsum and don't have an internet connection right now. Testing testing testing this blog post. Blog posts are cool.
 
-Headings are cool
+Welcome
 ======
 
-You can have many headings
-======
-
-Aren't headings cool?
-------
+This is for remarking the milestone of moving my old homepage here.
+I'll occasionally post some tech post here.
