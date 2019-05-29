@@ -69,8 +69,8 @@ In <i>Proceedings of the Nineteenth Conference on Computational Natural Language
 ## 2014 and earlier
 
 * [Joint Morphological Generation and Syntactic Linearization](https://www.aaai.org/ocs/index.php/AAAI/AAAI14/paper/download/8214/8603) \[[bib](https://scholar.googleusercontent.com/scholar.bib?q=info:wkXl8-P2VZ4J:scholar.google.com/&output=citation&scisdr=CgXjdayXEPy2rQifZSE:AAGBfm0AAAAAXO6afSEUUlCSmGpSov2He37wqJxAGjK0&scisig=AAGBfm0AAAAAXO6afQSP6mol5NTZaP9ZduZWWifj3G_n&scisf=4&ct=citation&cd=-1&hl=en)\] <br>
-Linfeng Song, Yue Zhang, Kai Song and Qun Liu. 
-In <i>Twenty-Eighth AAAI Conference on Artificial Intelligence</i>.
+Linfeng Song, Yue Zhang, Kai Song and Qun Liu.
+In <i>Twenty-Eighth AAAI Conference on Artificial Intelligence</i> (AAAI 2014).
 * [Syntactic SMT Using a Discriminative Text Generation Model](https://www.aclweb.org/anthology/D14-1021) \[[bib](https://scholar.googleusercontent.com/scholar.bib?q=info:eybcFZ-O-rUJ:scholar.google.com/&output=citation&scisdr=CgXjdayXEPy2rQifuVM:AAGBfm0AAAAAXO6aoVOlIIPWovdvFAQ3ZKnpD1sX3u44&scisig=AAGBfm0AAAAAXO6aoRsXVVMGSktK0Uc4ZRtmoVGM0b5u&scisf=4&ct=citation&cd=-1&hl=en)\] <br>
 Yue Zhang, Kai Song, Linfeng Song, Jingbo Zhu and Qun Liu.
 In <i>Proceedings of the 2014 Conference on Empirical Methods in Natural Language Processing</i> (EMNLP 2014).
