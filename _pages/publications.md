@@ -9,22 +9,22 @@ author_profile: true
 
 ## 2019
 
-* [Semantic Neural Machine Translation using AMR]() \[[bib]()\] <br>
+* [Semantic Neural Machine Translation using AMR](https://www.aclweb.org/anthology/Q19-1002) \[[bib](https://www.aclweb.org/anthology/papers/Q/Q19/Q19-1002.bib)\] <br>
 <b>Linfeng Song</b>, Daniel Gildea, Yue Zhang, Zhiguo Wang and Jinsong Su. 
 In <i>Transaction of ACL 2019</i> (TACL 2019).
 
 ## 2018
 
-* [Exploring Graph-structured Passage Representation for Multi-hop Reading Comprehension with Graph Neural Networks]() \[[bib]()\] <br>
+* [Exploring Graph-structured Passage Representation for Multi-hop Reading Comprehension with Graph Neural Networks](https://arxiv.org/abs/1809.02040) \[[bib](https://scholar.googleusercontent.com/scholar.bib?q=info:DuAA2YllzmsJ:scholar.google.com/&output=citation&scisdr=CgXjdayXEPy2rQiRrlk:AAGBfm0AAAAAXO6UtlmuWgws8cn5qM1iVjWKNQP_T_92&scisig=AAGBfm0AAAAAXO6Uth90ScLVnYbKx5XHp32abVYkSOeJ&scisf=4&ct=citation&cd=-1&hl=en)\] <br>
 <b>Linfeng Song</b>, Zhiguo Wang, Mo Yu, Yue Zhang, Radu Florian and Daniel Gildea.
 In <i>arXiv preprint arXiv:1809.02040</i>.
-* [Neural Transition-based Syntactic Linearization]() \[[bib]()\] <br>
+* [Neural Transition-based Syntactic Linearization](https://arxiv.org/abs/1810.09609) \[[bib](https://scholar.googleusercontent.com/scholar.bib?q=info:Tu0gE5HhypYJ:scholar.google.com/&output=citation&scisdr=CgXjdayXEPy2rQiQVbQ:AAGBfm0AAAAAXO6VTbQnEp2yHPgp4aGwpo-KIlGbDdIo&scisig=AAGBfm0AAAAAXO6VTbJVZ6S6R0BhYIPkmHzMd-_eEWDn&scisf=4&ct=citation&cd=-1&hl=en&scfhb=1)\] <br>
 <b>Linfeng Song</b>, Yue Zhang and Daniel Gildea.
 In <i>Proceedings of the 2018 Conference on Natural Language Generation</i> (INLG 2018).
-* [N-ary Relation Extraction using Graph State LSTM]() \[[bib]()\] <br>
+* [N-ary Relation Extraction using Graph State LSTM](https://arxiv.org/abs/1808.09101) \[[bib](https://scholar.googleusercontent.com/scholar.bib?q=info:ucB7bdDquRIJ:scholar.google.com/&output=citation&scisdr=CgXjdayXEPy2rQiQlkk:AAGBfm0AAAAAXO6VjknINsVx58uqL2v-oidLznHRhY2T&scisig=AAGBfm0AAAAAXO6Vji-IEb9dLQwmvxMeq2jBac0f_qJi&scisf=4&ct=citation&cd=-1&hl=en&scfhb=1)\] <br>
 <b>Linfeng Song</b>, Yue Zhang, Zhiguo Wang and Daniel Gildea.
 In <i>Proceedings of the 2018 Conference on Empirical Methods in Natural Language Processing</i> (EMNLP 2018).
-* [A Graph-to-Sequence Model for AMR-to-Text Generation]() \[[bib]()\] <br>
+* [A Graph-to-Sequence Model for AMR-to-Text Generation](https://arxiv.org/abs/1805.02473) \[[bib](https://scholar.googleusercontent.com/scholar.bib?q=info:_DcLI2orXFQJ:scholar.google.com/&output=citation&scisdr=CgXjdayXEPy2rQiTEYs:AAGBfm0AAAAAXO6WCYti45NIjUHoFqebCU7EBPpzdLwy&scisig=AAGBfm0AAAAAXO6WCRo4QuxjPCShRwD6B2m2IxJKENOJ&scisf=4&ct=citation&cd=-1&hl=en&scfhb=1)\] <br>
 <b>Linfeng Song</b>, Yue Zhang, Zhiguo Wang and Daniel Gildea.
 In <i>Proceedings of the 56th Annual Meeting of the Association for Computational Linguistics</i> (ACL 2018).
 * [Sentence-State LSTM for Text Representation]() \[[bib]()\] <br>
