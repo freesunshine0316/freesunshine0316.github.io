@@ -54,7 +54,7 @@ In <i>Proceedings of the 55th Annual Meeting of the Association for Computationa
 * [Word Embedding, Sense Embedding and their Application to Word Sense Induction](https://www.cs.rochester.edu/~lsong10/papers/area.pdf) [slides](https://www.cs.rochester.edu/~lsong10/papers/area_pres.pdf) <br>
 Linfeng Song. <i>Area Paper</i>.
 * [AMR-to-text generation as a Traveling Salesman Problem](https://arxiv.org/abs/1609.07451) \[[bib](https://scholar.googleusercontent.com/scholar.bib?q=info:lE1SUYLeRIMJ:scholar.google.com/&output=citation&scisdr=CgXjdayXEPy2rQica2Y:AAGBfm0AAAAAXO6Zc2ZicOMRTWMpRlA1REdRfzXZImbk&scisig=AAGBfm0AAAAAXO6Zc05EoYOShg_U9cEyhpR3hcGAziAN&scisf=4&ct=citation&cd=-1&hl=en&scfhb=1)\] <br>
-<b>Linfeng Song</b>, Yue Zhang, Xiaochang Peng, Zhiguo Wang and Daniel Gildea
+<b>Linfeng Song</b>, Yue Zhang, Xiaochang Peng, Zhiguo Wang and Daniel Gildea.
 In <i>Proceedings of the 2016 Conference on Empirical Methods in Natural Language Processing</i> (EMNLP 2016).
 * [Sense Embedding for Word Sense Induction](https://arxiv.org/abs/1606.05409) \[[bib](https://scholar.googleusercontent.com/scholar.bib?q=info:OLszhGjjdooJ:scholar.google.com/&output=citation&scisdr=CgXjdayXEPy2rQifE3o:AAGBfm0AAAAAXO6aC3ouk9ICT6opvryMTzZFU4euauYV&scisig=AAGBfm0AAAAAXO6aCyweqUhOBo6fe6staVYcoDRNYFp9&scisf=4&ct=citation&cd=-1&hl=en&scfhb=1)\] <br>
 Linfeng Song, Zhiguo Wang, Haitao Mi and Daniel Gildea.
