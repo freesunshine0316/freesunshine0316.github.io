@@ -11,49 +11,24 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D. in Computer Science, University of Rochester, 2019
+* M.S. in Computer Science, Chinese Academy of Science, 2014
+* B.Eng. in Software Engineering, Northeastern University (China), 2010
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* May 2019 -- now, Senior researcher (full-time)
+  * Tencent AI Lab, Bellevue, WA
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Summer 2015, 2017, 2018: Research Intern
+  * IBM Watson Research Center, Yorktown Heights, NY
 
-Publications
+* Summer 2016: Research Intern
+  * Bosch Research and Technology Center, Palo Alto, CA
+
+Professional Services
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* Program Committee of ACL (2019), AAAI (2019), IJCAI (2013)
+* Reviewer of EMNLP (2014--2019), NAACL (2015, 2018--2019), Coling (2018 **outstanding reviewer**), EACL (2017)
+* Reviewer of journals: TASLP (2016), TALLIP (2019)
+* Reviewer of other revenues: WMT (2013--2016, 2018--2019), \*SEM (2019), S$^2$MT (2015), EAMT (2017), MT-summit (2019), CWMT (2018)
