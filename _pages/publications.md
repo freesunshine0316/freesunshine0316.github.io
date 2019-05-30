@@ -15,9 +15,9 @@ To appear in <i>Proceedings of the 57th Annual Meeting of the Association for Co
 * [Graph-based Neural Sentence Ordering]() \[[bib]()\] <br>
 Yongjing Yin\*, <b>Linfeng Song</b>\*, Jinsong Su, Jiali Zeng, Chulun Zhou, Jiebo Luo.
 To appear in <i>IJCAI 2019</i>.
-* [Neural Collective Entity Linking Based on Recurrent Random Walk Network Learning]() \[[bib]()\] <br>
-Mengge Xue, Weiming Cai, Jinsong Su, Linfeng Song, Yubin Ge, Yubao Liu, Bin Wang.
-To appear in <i>IJCAI 2019</i>.
+<!--- * [Neural Collective Entity Linking Based on Recurrent Random Walk Network Learning]() \[[bib]()\] <br>--->
+<!---Mengge Xue, Weiming Cai, Jinsong Su, Linfeng Song, Yubin Ge, Yubao Liu, Bin Wang.--->
+<!---To appear in <i>IJCAI 2019</i>.--->
 * [Semantic Neural Machine Translation using AMR](https://arxiv.org/abs/1902.07282) \[[bib](https://www.aclweb.org/anthology/papers/Q/Q19/Q19-1002.bib)\] <br>
 <b>Linfeng Song</b>, Daniel Gildea, Yue Zhang, Zhiguo Wang and Jinsong Su. 
 In <i>Transaction of ACL 2019</i> (TACL 2019).
