@@ -9,6 +9,12 @@ author_profile: true
 
 ## 2019
 
+* [SemBleu: A Robust Metric for AMR Parsing Evaluation](https://arxiv.org/abs/1905.10726) \[[bib]()\] <br>
+<b>Linfeng Song</b>, Daniel Gildea.
+To appear in <i>Proceedings of the 57th Annual Meeting of the Association for Computational Linguistics</i> (ACL 2019).
+* [Graph-based Neural Sentence Ordering]() \[[bib]()\] <br>
+Yongjing Yin\*, <b>Linfeng Song</b>\*, Jinsong Su1, Jiali Zeng, Chulun Zhou, Jiebo Luo.
+To appear in <i>IJCAI 2019</i>.
 * [Semantic Neural Machine Translation using AMR](https://arxiv.org/abs/1902.07282) \[[bib](https://www.aclweb.org/anthology/papers/Q/Q19/Q19-1002.bib)\] <br>
 <b>Linfeng Song</b>, Daniel Gildea, Yue Zhang, Zhiguo Wang and Jinsong Su. 
 In <i>Transaction of ACL 2019</i> (TACL 2019).
