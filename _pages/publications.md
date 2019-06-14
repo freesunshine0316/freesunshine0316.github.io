@@ -12,6 +12,9 @@ author_profile: true
 * [SemBleu: A Robust Metric for AMR Parsing Evaluation](https://arxiv.org/abs/1905.10726) \[[bib]()\] <br>
 <b>Linfeng Song</b>, Daniel Gildea.
 To appear in <i>Proceedings of the 57th Annual Meeting of the Association for Computational Linguistics</i> (ACL 2019).
+* [Progressive Self-Supervised Attention Learning for Aspect-Level Sentiment Analysis]() \[[bib]()\] <br>
+Jialong Tang, Ziyao Lu, Jinsong Su, Yubin Ge, <b>Linfeng Song</b>, Le Sun, Jiebo Luo.
+To appear in <i>Proceedings of the 57th Annual Meeting of the Association for Computational Linguistics</i> (ACL 2019).
 * [Graph-based Neural Sentence Ordering]() \[[bib]()\] <br>
 Yongjing Yin\*, <b>Linfeng Song</b>\*, Jinsong Su, Jiali Zeng, Chulun Zhou, Jiebo Luo.
 To appear in <i>IJCAI 2019</i>.
