@@ -20,5 +20,5 @@ Professional Services
 ======
 
 * Program Committee of ACL (2019), AAAI (2019), IJCAI (2013)
-* Reviewer of EMNLP (2014--2019), NAACL (2015, 2018--2019), Coling (2018 \textbf{outstanding reviewer}), EACL (2017)
+* Reviewer of EMNLP (2014--2019), NAACL (2015, 2018--2019), Coling (2018 **outstanding reviewer**), EACL (2017)
 * Reviewer of journals: TASLP (2016), TALLIP (2019), TETCI (2019)
