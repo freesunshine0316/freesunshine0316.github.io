@@ -5,4 +5,7 @@ permalink: /research/
 author_profile: true
 ---
 
-Coming soon ...
+# Graph recurrent network
+
+## Presenting known graphs (as task input)
+
