@@ -74,7 +74,7 @@ In <i>Proceedings of the Fifth Joint Conference on Lexical and Computational Sem
 
 ## 2015
 
-* [A Synchronous Hyperedge Replacement Grammar based approach for AMR parsing](https://www.aclweb.org/anthology/K15-1004) \[[bib](https://www.aclweb.org/anthology/papers/K/K15/K15-1004.bib)\] <br>
+* [A Synchronous Hyperedge Replacement Grammar based approach for AMR parsing](https://www.aclweb.org/anthology/K15-1004) <br>
 Xiaochang Peng, <b>Linfeng Song</b> and Daniel Gildea.
 In <i>Proceedings of the Nineteenth Conference on Computational Natural Language Learning</i> (CoNLL 2015).
 
