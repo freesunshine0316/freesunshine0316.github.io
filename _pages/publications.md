@@ -53,7 +53,7 @@ In <i>Proceedings of the 2018 Conference of the North American Chapter of the As
 
 * [A Unified Query-based Generative Model for Question Generation and Question Answering](https://arxiv.org/abs/1709.01058) <br>
 <b>Linfeng Song</b>, Zhiguo Wang and Wael Hamza.
-In <i>arXiv preprint arXiv:1709.01058</i>. (<b>Arxiv version of Song et al., (NAACL 2018)</b>
+In <i>arXiv preprint arXiv:1709.01058</i>. (<b>Arxiv version of Song et al., (NAACL 2018)</b>)
 * [k-Nearest Neighbor Augmented Neural Networks for Text Classification](https://arxiv.org/abs/1708.07863) <br>
 Zhiguo Wang, Wael Hamza and <b>Linfeng Song</b>.
 In <i>arXiv preprint arXiv:1708.07863</i>.
