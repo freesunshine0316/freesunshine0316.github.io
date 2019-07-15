@@ -19,7 +19,7 @@ To appear in <i>Proceedings of the 57th Annual Meeting of the Association for Co
 Yongjing Yin\*, <b>Linfeng Song</b>\*, Jinsong Su, Jiali Zeng, Chulun Zhou, Jiebo Luo.
 To appear in <i>2019 International Joint Conference on Artificial Intelligence</i> (IJCAI 2019).
 * [Neural Collective Entity Linking Based on Recurrent Random Walk Network Learning]() <br>
-Mengge Xue, Weiming Cai, Jinsong Su, Linfeng Song, Yubin Ge, Yubao Liu, Bin Wang.
+Mengge Xue, Weiming Cai, Jinsong Su, <b>Linfeng Song</b>, Yubin Ge, Yubao Liu, Bin Wang.
 To appear in <i>2019 International Joint Conference on Artificial Intelligence</i> (IJCAI 2019).
 * [Semantic Neural Machine Translation using AMR](https://arxiv.org/abs/1902.07282) <br>
 <b>Linfeng Song</b>, Daniel Gildea, Yue Zhang, Zhiguo Wang and Jinsong Su. 
