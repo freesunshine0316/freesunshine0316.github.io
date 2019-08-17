@@ -9,18 +9,21 @@ author_profile: true
 
 ## 2019
 
+* Leveraging Dependency Forest for Neural Medical Relation Extraction <br>
+<b>Linfeng Song</b>, Yue Zhang, Daniel Gildea, Mo Yu, Zhiguo Wang and Jinsong Su.
+To appear in <i>Proceedings of the 2019 Conference on Empirical Methods in Natural Language Processing</i> (EMNLP 2019).
 * [SemBleu: A Robust Metric for AMR Parsing Evaluation](https://arxiv.org/abs/1905.10726) <br>
 <b>Linfeng Song</b>, Daniel Gildea.
-To appear in <i>Proceedings of the 57th Annual Meeting of the Association for Computational Linguistics</i> (ACL 2019).
+In <i>Proceedings of the 57th Annual Meeting of the Association for Computational Linguistics</i> (ACL 2019).
 * [Progressive Self-Supervised Attention Learning for Aspect-Level Sentiment Analysis](https://arxiv.org/abs/1906.01213) <br>
-Jialong Tang, Ziyao Lu, Jinsong Su, Yubin Ge, <b>Linfeng Song</b>, Le Sun, Jiebo Luo.
-To appear in <i>Proceedings of the 57th Annual Meeting of the Association for Computational Linguistics</i> (ACL 2019).
+Jialong Tang, Ziyao Lu, Jinsong Su, Yubin Ge, <b>Linfeng Song</b>, Le Sun and Jiebo Luo.
+In <i>Proceedings of the 57th Annual Meeting of the Association for Computational Linguistics</i> (ACL 2019).
 * [Graph-based Neural Sentence Ordering]() <br>
-Yongjing Yin\*, <b>Linfeng Song</b>\*, Jinsong Su, Jiali Zeng, Chulun Zhou, Jiebo Luo.
-To appear in <i>2019 International Joint Conference on Artificial Intelligence</i> (IJCAI 2019).
+Yongjing Yin\*, <b>Linfeng Song</b>\*, Jinsong Su, Jiali Zeng, Chulun Zhou and Jiebo Luo.
+In <i>2019 International Joint Conference on Artificial Intelligence</i> (IJCAI 2019).
 * [Neural Collective Entity Linking Based on Recurrent Random Walk Network Learning]() <br>
-Mengge Xue, Weiming Cai, Jinsong Su, <b>Linfeng Song</b>, Yubin Ge, Yubao Liu, Bin Wang.
-To appear in <i>2019 International Joint Conference on Artificial Intelligence</i> (IJCAI 2019).
+Mengge Xue, Weiming Cai, Jinsong Su, <b>Linfeng Song</b>, Yubin Ge, Yubao Liu and Bin Wang.
+In <i>2019 International Joint Conference on Artificial Intelligence</i> (IJCAI 2019).
 * [Semantic Neural Machine Translation using AMR](https://arxiv.org/abs/1902.07282) <br>
 <b>Linfeng Song</b>, Daniel Gildea, Yue Zhang, Zhiguo Wang and Jinsong Su. 
 In <i>Transaction of ACL 2019</i> (TACL 2019).
