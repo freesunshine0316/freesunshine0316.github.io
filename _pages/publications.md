@@ -7,11 +7,26 @@ author_profile: true
 
 [Google Scholar Profile](https://scholar.google.com/citations?user=yWZdmLYAAAAJ&hl=en)
 
+## 2020
+
+* Relation Extraction Exploiting Full Dependency Forests <br>
+Lifeng Jin, <b>Linfeng Song</b>, Yue Zhang, Kun Xu, Wei-yun Ma, and Dong Yu.
+To appear <i>in Proceedings of Thirty-Fourth AAAI Conference on Artificial Intelligence</i> (AAAI-20).
+* Coordinated Reasoning for Cross-Lingual Knowledge Graph Alignment <br>
+Kun Xu, <b>Linfeng Song</b>, Yansong Feng, Yan Song, and Dong Yu.
+To appear <i>in Proceedings of Thirty-Fourth AAAI Conference on Artificial Intelligence</i> (AAAI-20).
+* Neural Simile Recognition with Cyclic Multitask Learning and Local Attention <br>
+Jiali Zeng, <b>Linfeng Song</b>, Jinsong Su, Jun Xie, Wei Song, and Jiebo Luo.
+To appear <i>in Proceedings of Thirty-Fourth AAAI Conference on Artificial Intelligence</i> (AAAI-20).
+* Enhancing Pointer Network for Sentence Ordering with Pairwise Ordering Predictions <br>
+Yongjing Yin, Fandong Meng, Jinsong Su, Yubin Ge, <b>Linfeng Song</b>, Jie Zhou, and Jiebo Luo.
+To appear <i>in Proceedings of Thirty-Fourth AAAI Conference on Artificial Intelligence</i> (AAAI-20).
+
 ## 2019
 
-* Leveraging Dependency Forest for Neural Medical Relation Extraction <br>
+* [Leveraging Dependency Forest for Neural Medical Relation Extraction](https://arxiv.org/abs/1911.04123) <br>
 <b>Linfeng Song</b>, Yue Zhang, Daniel Gildea, Mo Yu, Zhiguo Wang and Jinsong Su.
-To appear in <i>Proceedings of the 2019 Conference on Empirical Methods in Natural Language Processing</i> (EMNLP 2019).
+In <i>Proceedings of the 2019 Conference on Empirical Methods in Natural Language Processing</i> (EMNLP 2019).
 * [SemBleu: A Robust Metric for AMR Parsing Evaluation](https://arxiv.org/abs/1905.10726) <br>
 <b>Linfeng Song</b>, Daniel Gildea.
 In <i>Proceedings of the 57th Annual Meeting of the Association for Computational Linguistics</i> (ACL 2019).
