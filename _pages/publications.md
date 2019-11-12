@@ -16,7 +16,7 @@ To appear <i>in Proceedings of Thirty-Fourth AAAI Conference on Artificial Intel
 Kun Xu, <b>Linfeng Song</b>, Yansong Feng, Yan Song, and Dong Yu.
 To appear <i>in Proceedings of Thirty-Fourth AAAI Conference on Artificial Intelligence</i> (AAAI-20).
 * Neural Simile Recognition with Cyclic Multitask Learning and Local Attention <br>
-Jiali Zeng, <b>Linfeng Song</b>, Jinsong Su, Jun Xie, Wei Song, and Jiebo Luo.
+Jiali Zeng\*, <b>Linfeng Song</b>\*, Jinsong Su, Jun Xie, Wei Song, and Jiebo Luo.
 To appear <i>in Proceedings of Thirty-Fourth AAAI Conference on Artificial Intelligence</i> (AAAI-20).
 * Enhancing Pointer Network for Sentence Ordering with Pairwise Ordering Predictions <br>
 Yongjing Yin, Fandong Meng, Jinsong Su, Yubin Ge, <b>Linfeng Song</b>, Jie Zhou, and Jiebo Luo.
