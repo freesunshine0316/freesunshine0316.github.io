@@ -5,12 +5,13 @@ permalink: /publications/
 author_profile: true
 ---
 
-[Google Scholar Profile](https://scholar.google.com/citations?user=yWZdmLYAAAAJ&hl=en)
+[Google Scholar Profile](https://scholar.google.com/citations?user=yWZdmLYAAAAJ&hl=en)<br>
+(\* denotes equal contribution)
 
 ## 2020
 
 * Relation Extraction Exploiting Full Dependency Forests <br>
-Lifeng Jin, <b>Linfeng Song</b>, Yue Zhang, Kun Xu, Wei-yun Ma, and Dong Yu.
+Lifeng Jin\*, <b>Linfeng Song</b>\*, Yue Zhang, Kun Xu, Wei-yun Ma, and Dong Yu.
 To appear <i>in Proceedings of Thirty-Fourth AAAI Conference on Artificial Intelligence</i> (AAAI-20).
 * Coordinated Reasoning for Cross-Lingual Knowledge Graph Alignment <br>
 Kun Xu, <b>Linfeng Song</b>, Yansong Feng, Yan Song, and Dong Yu.
