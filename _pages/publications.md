@@ -12,7 +12,7 @@ author_profile: true
 
 * [Relation Extraction Exploiting Full Dependency Forests](https://freesunshine0316.github.io/files/RE_parser_joint__AAAI_2020_.pdf) <br>
 Lifeng Jin\*, <b>Linfeng Song</b>\*, Yue Zhang, Kun Xu, Wei-yun Ma, and Dong Yu.
-To appear <i>in Proceedings of Thirty-Fourth AAAI Conference on Artificial Intelligence</i> (AAAI-20).
+To appear <i>in Proceedings of Thirty-Fourth AAAI Conference on Artificial Intelligence</i> (AAAI-20), <div class="text-red">*Oral*</div>.
 * Coordinated Reasoning for Cross-Lingual Knowledge Graph Alignment <br>
 Kun Xu, <b>Linfeng Song</b>, Yansong Feng, Yan Song, and Dong Yu.
 To appear <i>in Proceedings of Thirty-Fourth AAAI Conference on Artificial Intelligence</i> (AAAI-20).
