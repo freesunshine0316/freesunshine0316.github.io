@@ -51,7 +51,7 @@ In <i>Transaction of ACL 2019</i> (TACL 2019).
 In <i>arXiv preprint arXiv:1809.02040</i>.
 * [Neural Transition-based Syntactic Linearization](https://arxiv.org/abs/1810.09609) <br>
 <b>Linfeng Song</b>, Yue Zhang and Daniel Gildea.
-In <i>Proceedings of the 2018 Conference on Natural Language Generation</i> (INLG 2018).
+In <i>Proceedings of the 2018 Conference on Natural Language Generation</i> (INLG 2018), **Oral**.
 * [N-ary Relation Extraction using Graph State LSTM](https://arxiv.org/abs/1808.09101) <br>
 <b>Linfeng Song</b>, Yue Zhang, Zhiguo Wang and Daniel Gildea.
 In <i>Proceedings of the 2018 Conference on Empirical Methods in Natural Language Processing</i> (EMNLP 2018).
@@ -78,7 +78,7 @@ Zhiguo Wang, Wael Hamza and <b>Linfeng Song</b>.
 In <i>arXiv preprint arXiv:1708.07863</i>.
 * [AMR-to-text Generation with Synchronous Node Replacement Grammar](https://arxiv.org/abs/1702.00500) <br>
 <b>Linfeng Song</b>, Xiaochang Peng, Yue Zhang, Zhiguo Wang and Daniel Gildea.
-In <i>Proceedings of the 55th Annual Meeting of the Association for Computational Linguistics</i> (ACL 2017).
+In <i>Proceedings of the 55th Annual Meeting of the Association for Computational Linguistics</i> (ACL 2017), **Oral**.
 
 ## 2016
 
