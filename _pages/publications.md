@@ -12,16 +12,16 @@ author_profile: true
 
 * [Relation Extraction Exploiting Full Dependency Forests](https://freesunshine0316.github.io/files/RE_parser_joint__AAAI_2020_.pdf) <br>
 Lifeng Jin\*, <b>Linfeng Song</b>\*, Yue Zhang, Kun Xu, Wei-yun Ma, and Dong Yu.
-To appear <i>in Proceedings of Thirty-Fourth AAAI Conference on Artificial Intelligence</i> (AAAI-20), <div class="text-red">*Oral*</div>.
-* Coordinated Reasoning for Cross-Lingual Knowledge Graph Alignment <br>
+In <i>Proceedings of Thirty-Fourth AAAI Conference on Artificial Intelligence</i> (AAAI-20), **Oral**.
+* [Coordinated Reasoning for Cross-Lingual Knowledge Graph Alignment](https://arxiv.org/abs/2001.08728) <br>
 Kun Xu, <b>Linfeng Song</b>, Yansong Feng, Yan Song, and Dong Yu.
-To appear <i>in Proceedings of Thirty-Fourth AAAI Conference on Artificial Intelligence</i> (AAAI-20).
-* Neural Simile Recognition with Cyclic Multitask Learning and Local Attention <br>
+In <i>Proceedings of Thirty-Fourth AAAI Conference on Artificial Intelligence</i> (AAAI-20).
+* [Neural Simile Recognition with Cyclic Multitask Learning and Local Attention](https://arxiv.org/abs/1912.09084) <br>
 Jiali Zeng\*, <b>Linfeng Song</b>\*, Jinsong Su, Jun Xie, Wei Song, and Jiebo Luo.
-To appear <i>in Proceedings of Thirty-Fourth AAAI Conference on Artificial Intelligence</i> (AAAI-20).
+In <i>Proceedings of Thirty-Fourth AAAI Conference on Artificial Intelligence</i> (AAAI-20).
 * Enhancing Pointer Network for Sentence Ordering with Pairwise Ordering Predictions <br>
 Yongjing Yin, Fandong Meng, Jinsong Su, Yubin Ge, <b>Linfeng Song</b>, Jie Zhou, and Jiebo Luo.
-To appear <i>in Proceedings of Thirty-Fourth AAAI Conference on Artificial Intelligence</i> (AAAI-20).
+In <i>Proceedings of Thirty-Fourth AAAI Conference on Artificial Intelligence</i> (AAAI-20).
 
 ## 2019
 
@@ -34,10 +34,10 @@ In <i>Proceedings of the 57th Annual Meeting of the Association for Computationa
 * [Progressive Self-Supervised Attention Learning for Aspect-Level Sentiment Analysis](https://arxiv.org/abs/1906.01213) <br>
 Jialong Tang, Ziyao Lu, Jinsong Su, Yubin Ge, <b>Linfeng Song</b>, Le Sun and Jiebo Luo.
 In <i>Proceedings of the 57th Annual Meeting of the Association for Computational Linguistics</i> (ACL 2019).
-* [Graph-based Neural Sentence Ordering]() <br>
+* [Graph-based Neural Sentence Ordering](https://www.ijcai.org/Proceedings/2019/0748.pdf) <br>
 Yongjing Yin\*, <b>Linfeng Song</b>\*, Jinsong Su, Jiali Zeng, Chulun Zhou and Jiebo Luo.
 In <i>2019 International Joint Conference on Artificial Intelligence</i> (IJCAI 2019).
-* [Neural Collective Entity Linking Based on Recurrent Random Walk Network Learning]() <br>
+* [Neural Collective Entity Linking Based on Recurrent Random Walk Network Learning](https://arxiv.org/abs/1906.09320) <br>
 Mengge Xue, Weiming Cai, Jinsong Su, <b>Linfeng Song</b>, Yubin Ge, Yubao Liu and Bin Wang.
 In <i>2019 International Joint Conference on Artificial Intelligence</i> (IJCAI 2019).
 * [Semantic Neural Machine Translation using AMR](https://arxiv.org/abs/1902.07282) <br>
@@ -63,7 +63,7 @@ Yue Zhang, Qi Liu and <b>Linfeng Song</b>.
 In <i>Proceedings of the 56th Annual Meeting of the Association for Computational Linguistics</i> (ACL 2018).
 * [Sequence-to-sequence Models for Cache Transition Systems](https://www.aclweb.org/anthology/P18-1171) <br>
 Xiaochang Peng, <b>Linfeng Song</b>, Daniel Gildea and Giorgio Satta.
-In <i>Proceedings of the 56th Annual Meeting of the Association for Computational Linguistics</i> (ACL 2018).
+In <i>Proceedings of the 56th Annual Meeting of the Association for Computational Linguistics</i> (ACL 2018), **Oral**.
 * [Leveraging Context Information for Natural Question Generation](https://www.aclweb.org/anthology/N18-2090) <br>
 <b>Linfeng Song</b>, Zhiguo Wang, Wael Hamza, Yue Zhang and Daniel Gildea.
 In <i>Proceedings of the 2018 Conference of the North American Chapter of the Association for Computational Linguistics</i> (NAACL 2018).
