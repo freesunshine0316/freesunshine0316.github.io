@@ -13,6 +13,7 @@ I am currently a senior researcher at Tencent AI Lab working on Language Underst
 Recent News
 ======
 
+* 2020.03  I'm honored to become an Area Chair (Meta-reviewer) for the "Semantics" track of EMNLP 2020.
 * 2019.10  We got four papers accepted by AAAI 2020, including an oral presentation. Paper draft and source code will be released shortly.
 * 2019.08  We got one paper (Leveraging Dependency Forest for Neural Medical Relation Extraction) accepted by EMNLP 2019. Paper draft and source code will be released shortly.
 * 2019.05  We have one short paper (SemBleu: A Robust Metric for AMR Parsing Evaluation) and a full paper (Graph-based Neural Sentence Ordering) being accepted by ACL 2019 and IJCAI 2019, respectively.
