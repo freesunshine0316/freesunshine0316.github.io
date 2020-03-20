@@ -13,6 +13,7 @@ I am currently a senior researcher at Tencent AI Lab working on Language Underst
 Recent News
 ======
 
+* 2020.03  Our paper entitled "Evidence Integration for Multi-hop Reading Comprehension with Graph Neural Networks" has finally been accepted by IEEE Transactions on Knowledge and Data Engineering (TKDE).
 * 2020.03  I'm honored to become an Area Chair (Meta-reviewer) for the "Semantics" track of EMNLP 2020.
 * 2019.10  We got four papers accepted by AAAI 2020, including an oral presentation. Paper draft and source code will be released shortly.
 * 2019.08  We got one paper (Leveraging Dependency Forest for Neural Medical Relation Extraction) accepted by EMNLP 2019. Paper draft and source code will be released shortly.
