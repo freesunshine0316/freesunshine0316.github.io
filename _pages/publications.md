@@ -21,7 +21,7 @@ In <i>Proceedings of Thirty-Fourth AAAI Conference on Artificial Intelligence</i
 * [Neural Simile Recognition with Cyclic Multitask Learning and Local Attention](https://arxiv.org/abs/1912.09084) <br>
 Jiali Zeng\*, <b>Linfeng Song</b>\*, Jinsong Su, Jun Xie, Wei Song, and Jiebo Luo.
 In <i>Proceedings of Thirty-Fourth AAAI Conference on Artificial Intelligence</i> (AAAI-20).
-* Enhancing Pointer Network for Sentence Ordering with Pairwise Ordering Predictions <br>
+* [Enhancing Pointer Network for Sentence Ordering with Pairwise Ordering Predictions]() <br>
 Yongjing Yin, Fandong Meng, Jinsong Su, Yubin Ge, <b>Linfeng Song</b>, Jie Zhou, and Jiebo Luo.
 In <i>Proceedings of Thirty-Fourth AAAI Conference on Artificial Intelligence</i> (AAAI-20).
 
@@ -50,7 +50,7 @@ In <i>Transaction of ACL 2019</i> (TACL 2019).
 
 * [Exploring Graph-structured Passage Representation for Multi-hop Reading Comprehension with Graph Neural Networks](https://arxiv.org/abs/1809.02040) <br>
 <b>Linfeng Song</b>, Zhiguo Wang, Mo Yu, Yue Zhang, Radu Florian and Daniel Gildea.
-In <i>arXiv preprint arXiv:1809.02040</i>.
+In <i>arXiv preprint arXiv:1809.02040</i>. (<b>Arxiv version of Song et al., (TKDE 2020)</b>)
 * [Neural Transition-based Syntactic Linearization](https://arxiv.org/abs/1810.09609) <br>
 <b>Linfeng Song</b>, Yue Zhang and Daniel Gildea.
 In <i>Proceedings of the 2018 Conference on Natural Language Generation</i> (INLG 2018), **Oral**.
