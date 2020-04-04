@@ -10,8 +10,8 @@ author_profile: true
 
 ## 2020
 
-* [Evidence Integration for Multi-hop Reading Comprehension with Graph Neural Networks]() <br>
-Linfeng Song, Zhiguo Wang, Mo Yu, Yue Zhang, Radu Florian and Daniel Gildea. To appear in IEEE Transactions on Knowledge and Data Engineering (TKDE).
+* [Evidence Integration for Multi-hop Reading Comprehension with Graph Neural Networks](https://ieeexplore.ieee.org/abstract/document/9051845) <br>
+Linfeng Song, Zhiguo Wang, Mo Yu, Yue Zhang, Radu Florian and Daniel Gildea. In IEEE Transactions on Knowledge and Data Engineering (TKDE).
 * [Relation Extraction Exploiting Full Dependency Forests](https://freesunshine0316.github.io/files/RE_parser_joint__AAAI_2020_.pdf) <br>
 Lifeng Jin\*, <b>Linfeng Song</b>\*, Yue Zhang, Kun Xu, Wei-yun Ma, and Dong Yu.
 In <i>Proceedings of Thirty-Fourth AAAI Conference on Artificial Intelligence</i> (AAAI-20), **Oral**.
