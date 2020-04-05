@@ -10,6 +10,10 @@ author_profile: true
 
 ## 2020
 
+* [Structural Information Preserving for Graph-to-Text Generation]() <br>
+Linfeng Song, Ante Wang, Jinsong Su, Yue Zhang, Kun Xu, Yubin Ge and Dong Yu. To appear in <i>Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics</i> (ACL 2020).
+* [ZPR2: Joint Zero Pronoun Recovery and Resolution using Multi-Task Learning and BERT]() <br>
+Linfeng Song, Kun Xu, Yue Zhang, Jianshu Chen and Dong Yu. To appear in <i>Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics</i> (ACL 2020).
 * [Evidence Integration for Multi-hop Reading Comprehension with Graph Neural Networks](https://ieeexplore.ieee.org/abstract/document/9051845) <br>
 Linfeng Song, Zhiguo Wang, Mo Yu, Yue Zhang, Radu Florian and Daniel Gildea. In IEEE Transactions on Knowledge and Data Engineering (TKDE).
 * [Relation Extraction Exploiting Full Dependency Forests](https://freesunshine0316.github.io/files/RE_parser_joint__AAAI_2020_.pdf) <br>
