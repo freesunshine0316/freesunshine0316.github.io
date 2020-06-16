@@ -10,7 +10,7 @@ author_profile: true
 
 ## 2020
 
-* [Structural Information Preserving for Graph-to-Text Generation]() <br>
+* [Structural Information Preserving for Graph-to-Text Generation](https://freesunshine0316.github.io/files/AMR_multiview__ACL_2020_.pdf) <br>
 <b>Linfeng Song</b>, Ante Wang, Jinsong Su, Yue Zhang, Kun Xu, Yubin Ge and Dong Yu. To appear in <i>Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics</i> (ACL 2020).
 * [ZPR2: Joint Zero Pronoun Recovery and Resolution using Multi-Task Learning and BERT]() <br>
 <b>Linfeng Song</b>, Kun Xu, Yue Zhang, Jianshu Chen and Dong Yu. To appear in <i>Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics</i> (ACL 2020).
