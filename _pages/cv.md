@@ -29,7 +29,7 @@ redirect_from:
 ## Professional Services
 
 * Area Chair of EMNLP (2020)
-* Program Committee of ACL (2019--2020), AAAI (2019--2020), IJCAI (2013)
-* Reviewer of EMNLP (2014--2019), NAACL (2015, 2018--2019), Coling (2018 **outstanding reviewer**, 2020), EACL (2017)
-* Reviewer of journals: TASLP (2016), TALLIP (2019)
-* Reviewer of other revenues: INLG (2019--2020), WMT (2013--2016, 2018--2020), \*SEM (2019), S$^2$MT (2015), EAMT (2017), MT-summit (2019), CWMT (2018)
+* Program Committee of ACL (2019--2020), AAAI (2019--2021), IJCAI (2013)
+* Reviewer of EMNLP (2014--2019), NAACL (2015, 2018--2019), COLING (2018 **outstanding reviewer**, 2020), EACL (2017, 2021), AACL (2020)
+* Reviewer of journals: TASLP (2016), TALLIP (2019), TETCI (2019)
+* Reviewer of other revenues: INLG (2019--2020), WMT (2013--2016, 2018--2020), \*SEM (2019)
