@@ -13,6 +13,8 @@ I am currently a senior researcher at Tencent AI Lab working on Language Underst
 Recent News
 ======
 
+* 2020.09  I'll be giving an invited talk about the current progress on AMR parsing and AMR-to-text generation at [CCL 2020](http://cips-cl.org/static/CCL2020/frontier.html).
+* 2020.09  We have one long paper and a short paper accepted by EMNLP 2020.
 * 2020.04  We have one long paper and a short paper accepted by ACL 2020.
 * 2020.03  Our paper entitled "Evidence Integration for Multi-hop Reading Comprehension with Graph Neural Networks" has finally been accepted by IEEE Transactions on Knowledge and Data Engineering (TKDE).
 * 2020.03  I'm honored to become an Area Chair (Meta-reviewer) for the "Semantics" track of EMNLP 2020.
