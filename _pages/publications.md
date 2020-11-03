@@ -10,6 +10,8 @@ author_profile: true
 
 ## 2020
 
+* [Rich Syntactic and Semantic Information Helps Unsupervised Text Style Transfer]() <br>
+Hongyu Gong, <b>Linfeng Song</b> and Suma Bhat. To appear in <i>Proceedings of the 2020 Conference on Natural Language Generation</i> (INLG 2020).
 * [Online Back-Parsing for AMR-to-Text Generation](https://arxiv.org/abs/2010.04520) <br>
 Xuefeng Bai, <b>Linfeng Song</b> and Yue Zhang. To appear in <i>Proceedings of the 2020 Conference on Empirical Methods in Natural Language Processing</i> (EMNLP 2020).
 * [Semantic Role Labeling Guided Multi-turn Dialogue ReWriter](https://arxiv.org/abs/2010.01417) <br>
