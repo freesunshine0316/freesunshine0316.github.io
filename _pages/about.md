@@ -13,11 +13,13 @@ I am currently a senior researcher at Tencent AI Lab working on Language Underst
 Recent News
 ======
 
+* 2020.12  I'm honored to serve as a senior PC member (≈Area Chair) at IJCAI 2021.
+* 2020.11  I'm honored to join the editorial team of [TACL](https://www.mitpressjournals.org/loi/tacl), a top journel focusing on NLP.
 * 2020.09  I'll be giving an invited talk about the current progress on AMR parsing and AMR-to-text generation at [CCL 2020](http://cips-cl.org/static/CCL2020/frontier.html).
 * 2020.09  We have one long paper and a short paper accepted by EMNLP 2020.
 * 2020.04  We have one long paper and a short paper accepted by ACL 2020.
 * 2020.03  Our paper entitled "Evidence Integration for Multi-hop Reading Comprehension with Graph Neural Networks" has finally been accepted by IEEE Transactions on Knowledge and Data Engineering (TKDE).
-* 2020.03  I'm honored to become an Area Chair (Meta-reviewer) for the "Semantics" track of EMNLP 2020.
+* 2020.03  I'm honored to serve as an Area Chair (Meta-reviewer) for the "Semantics" track of EMNLP 2020.
 * 2019.10  We got four papers accepted by AAAI 2020, including an oral presentation. Paper draft and source code will be released shortly.
 * 2019.08  We got one paper (Leveraging Dependency Forest for Neural Medical Relation Extraction) accepted by EMNLP 2019. Paper draft and source code will be released shortly.
 * 2019.05  We have one short paper (SemBleu: A Robust Metric for AMR Parsing Evaluation) and a full paper (Graph-based Neural Sentence Ordering) being accepted by ACL 2019 and IJCAI 2019, respectively.
