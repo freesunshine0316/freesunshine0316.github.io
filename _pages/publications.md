@@ -10,6 +10,8 @@ author_profile: true
 
 ## 2020
 
+* [Robust Dialogue Utterance Rewriting as Sequence Tagging](https://arxiv.org/pdf/2012.14535.pdf) <br>
+Jie Hao, <b>Linfeng Song</b>, Liwei Wang, Kun Xu, Zhaopeng Tu, Dong Yu. In <i>arXiv preprint arXiv:2012.14535</i>.
 * [Rich Syntactic and Semantic Information Helps Unsupervised Text Style Transfer](https://www.aclweb.org/anthology/2020.inlg-1.17.pdf) <br>
 Hongyu Gong, <b>Linfeng Song</b> and Suma Bhat. To appear in <i>Proceedings of the 2020 Conference on Natural Language Generation</i> (INLG 2020).
 * [Online Back-Parsing for AMR-to-Text Generation](https://arxiv.org/abs/2010.04520) <br>
