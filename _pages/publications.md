@@ -8,6 +8,11 @@ author_profile: true
 [Google Scholar Profile](https://scholar.google.com/citations?user=yWZdmLYAAAAJ&hl=en)<br>
 (\* denotes equal contribution)
 
+## 2021 
+
+* [Video-aided Unsupervised Grammar Induction]() <br>
+Songyang Zhang, <b>Linfeng Song</b>, Lifeng Jin, Kun Xu, Dong Yu and Jiebo Luo. To appear in <i> Proceedings of the 2021 Annual Conference of the North American Chapter of the Association for Computational Linguistics</i> (NAACL 2021).
+
 ## 2020
 
 * [Robust Dialogue Utterance Rewriting as Sequence Tagging](https://arxiv.org/abs/2012.14535) <br>
