@@ -18,11 +18,11 @@ Songyang Zhang, <b>Linfeng Song</b>, Lifeng Jin, Kun Xu, Dong Yu and Jiebo Luo. 
 * [Robust Dialogue Utterance Rewriting as Sequence Tagging](https://arxiv.org/abs/2012.14535) <br>
 Jie Hao, <b>Linfeng Song</b>, Liwei Wang, Kun Xu, Zhaopeng Tu, Dong Yu. In <i>arXiv preprint arXiv:2012.14535</i>.
 * [Rich Syntactic and Semantic Information Helps Unsupervised Text Style Transfer](https://www.aclweb.org/anthology/2020.inlg-1.17.pdf) <br>
-Hongyu Gong, <b>Linfeng Song</b> and Suma Bhat. To appear in <i>Proceedings of the 2020 Conference on Natural Language Generation</i> (INLG 2020).
+Hongyu Gong, <b>Linfeng Song</b> and Suma Bhat. In <i>Proceedings of the 2020 Conference on Natural Language Generation</i> (INLG 2020).
 * [Online Back-Parsing for AMR-to-Text Generation](https://arxiv.org/abs/2010.04520) <br>
-Xuefeng Bai, <b>Linfeng Song</b> and Yue Zhang. To appear in <i>Proceedings of the 2020 Conference on Empirical Methods in Natural Language Processing</i> (EMNLP 2020).
+Xuefeng Bai, <b>Linfeng Song</b> and Yue Zhang. In <i>Proceedings of the 2020 Conference on Empirical Methods in Natural Language Processing</i> (EMNLP 2020).
 * [Semantic Role Labeling Guided Multi-turn Dialogue ReWriter](https://arxiv.org/abs/2010.01417) <br>
-Kun Xu, Haochen Tan, <b>Linfeng Song</b>, Han Wu, Haisong Zhang, Linqi Song and Dong Yu. To appear in <i>Proceedings of the 2020 Conference on Empirical Methods in Natural Language Processing</i> (EMNLP 2020).
+Kun Xu, Haochen Tan, <b>Linfeng Song</b>, Han Wu, Haisong Zhang, Linqi Song and Dong Yu. In <i>Proceedings of the 2020 Conference on Empirical Methods in Natural Language Processing</i> (EMNLP 2020).
 * [Structural Information Preserving for Graph-to-Text Generation](https://arxiv.org/abs/2102.06749) <br>
 <b>Linfeng Song</b>, Ante Wang, Jinsong Su, Yue Zhang, Kun Xu, Yubin Ge and Dong Yu. In <i>Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics</i> (ACL 2020).
 * [ZPR2: Joint Zero Pronoun Recovery and Resolution using Multi-Task Learning and BERT](https://freesunshine0316.github.io/files/ZPR2_ACL_2020_.pdf) <br>
