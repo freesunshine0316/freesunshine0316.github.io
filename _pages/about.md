@@ -13,7 +13,7 @@ I am currently a senior researcher at Tencent AI Lab working on Language Underst
 Recent News
 ======
 
-* 2020.05  I'm so excited that our paper "[Video-aided Unsupervised Grammar Induction](https://arxiv.org/abs/2104.04369)" was selected as the best paper of NAACL 2021.
+* 2020.05  I'm so excited that our paper "[Video-aided Unsupervised Grammar Induction](https://arxiv.org/abs/2104.04369)" was selected as the **best long paper** of NAACL 2021.
 * 2020.05  We got 4 papers accepted by ACL 2021(2 long and 1 short in the main track, 1 long in Findings).
 * 2020.04  We got one paper accepted by IJCAI 2021.
 * 2020.12  I'm honored to serve as a senior PC member (≈Area Chair) at IJCAI 2021.
