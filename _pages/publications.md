@@ -6,12 +6,24 @@ author_profile: true
 ---
 
 [Google Scholar Profile](https://scholar.google.com/citations?user=yWZdmLYAAAAJ&hl=en)<br>
-(\* denotes equal contribution)
+(\* denotes equal contribution, † indicates corresponding author)
 
 ## 2021 
 
-* [Video-aided Unsupervised Grammar Induction]() <br>
-Songyang Zhang, <b>Linfeng Song</b>, Lifeng Jin, Kun Xu, Dong Yu and Jiebo Luo. To appear in <i> Proceedings of the 2021 Annual Conference of the North American Chapter of the Association for Computational Linguistics</i> (NAACL 2021).
+* [End-to-End AMR Corefencence Resolution]() <br>
+Qiankun Fu, **Linfeng Song**†, Wenyu Du, and Yue Zhang. ACL 2021. 
+
+* [Semantic Representation for Dialogue Modeling]() <br>
+Xuefeng Bai, Yulong Chen, **Linfeng Song**, and Yue Zhang. ACL 2021.
+
+* [JointGT: Graph-Text Joint Representation Learning for Text Generation from Knowledge Graphs]() <br>
+Pei Ke, Haozhe Ji, Yu Ran, Xin Cui, Liwei Wang, **Linfeng Song**, Xiaoyan Zhu, and Minlie Huang. ACL 2021 (Findings).
+
+* [Domain-Adaptive Pretraining Methods for Dialogue Understanding]() <br>
+Han Wu, Kun Xu, **Linfeng Song**, Lifeng Jin, Haisong Zhang, and Linqi Song.  ACL 2021 (Short).
+
+* [Video-aided Unsupervised Grammar Induction](https://arxiv.org/abs/2104.04369) <br>
+Songyang Zhang, <b>Linfeng Song</b>, Lifeng Jin, Kun Xu, Dong Yu and Jiebo Luo. In <i> Proceedings of the 2021 Annual Conference of the North American Chapter of the Association for Computational Linguistics</i> (NAACL 2021, **Best Long Paper**).
 
 ## 2020
 
