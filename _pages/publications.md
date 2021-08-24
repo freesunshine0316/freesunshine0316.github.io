@@ -10,6 +10,9 @@ author_profile: true
 
 ## 2021 
 
+* [CASA: Conversational Aspect Sentiment Analysisfor Dialogue Understanding]() <br>
+**Linfeng Song**, Chunlei Xin, Shaopeng Lai, Ante Wang, Jinsong Su, and Kun Xu. To appear at JAIR 2021.
+
 * [End-to-End AMR Corefencence Resolution]() <br>
 Qiankun Fu, **Linfeng Song**†, Wenyu Du, and Yue Zhang. ACL 2021. 
 
