@@ -10,6 +10,12 @@ author_profile: true
 
 ## 2021 
 
+* [RAST: Domain-Robust Dialogue Rewriting as Sequence Tagging]() <br>
+Jie Hao, **Linfeng Song**†, Liwei Wang, Kun Xu, Zhaopeng Tu, Dong Yu. To appear at EMNLP 2021.
+
+* [Instance-adaptive training with noise-robust losses against noisy labels]() <br>
+Lifeng Jin, **Linfeng Song**, Kun Xu, Dong Yu. To appear at EMNLP 2021.
+
 * [CASA: Conversational Aspect Sentiment Analysisfor Dialogue Understanding]() <br>
 **Linfeng Song**, Chunlei Xin, Shaopeng Lai, Ante Wang, Jinsong Su, and Kun Xu. To appear at JAIR 2021.
 
@@ -31,7 +37,7 @@ Songyang Zhang, <b>Linfeng Song</b>, Lifeng Jin, Kun Xu, Dong Yu and Jiebo Luo. 
 ## 2020
 
 * [Robust Dialogue Utterance Rewriting as Sequence Tagging](https://arxiv.org/abs/2012.14535) <br>
-Jie Hao, <b>Linfeng Song</b>, Liwei Wang, Kun Xu, Zhaopeng Tu, Dong Yu. In <i>arXiv preprint arXiv:2012.14535</i>.
+Jie Hao, <b>Linfeng Song</b>, Liwei Wang, Kun Xu, Zhaopeng Tu, Dong Yu. (<b>Arxiv version of Hao et al., EMNLP 2021</b>)
 * [Rich Syntactic and Semantic Information Helps Unsupervised Text Style Transfer](https://www.aclweb.org/anthology/2020.inlg-1.17.pdf) <br>
 Hongyu Gong, <b>Linfeng Song</b> and Suma Bhat. In <i>Proceedings of the 2020 Conference on Natural Language Generation</i> (INLG 2020).
 * [Online Back-Parsing for AMR-to-Text Generation](https://arxiv.org/abs/2010.04520) <br>
