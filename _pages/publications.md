@@ -19,16 +19,19 @@ Lifeng Jin, **Linfeng Song**, Kun Xu, Dong Yu. To appear at EMNLP 2021.
 * [CASA: Conversational Aspect Sentiment Analysisfor Dialogue Understanding]() <br>
 **Linfeng Song**, Chunlei Xin, Shaopeng Lai, Ante Wang, Jinsong Su, and Kun Xu. To appear at JAIR 2021.
 
-* [End-to-End AMR Corefencence Resolution]() <br>
+* [End-to-End AMR Corefencence Resolution](https://aclanthology.org/2021.acl-long.324.pdf) <br>
 Qiankun Fu, **Linfeng Song**†, Wenyu Du, and Yue Zhang. ACL 2021. 
 
-* [Semantic Representation for Dialogue Modeling]() <br>
+* [Semantic Representation for Dialogue Modeling](https://aclanthology.org/2021.acl-long.342.pdf) <br>
 Xuefeng Bai, Yulong Chen, **Linfeng Song**, and Yue Zhang. ACL 2021.
 
-* [JointGT: Graph-Text Joint Representation Learning for Text Generation from Knowledge Graphs]() <br>
+* [JointGT: Graph-Text Joint Representation Learning for Text Generation from Knowledge Graphs](https://aclanthology.org/2021.findings-acl.223.pdf) <br>
 Pei Ke, Haozhe Ji, Yu Ran, Xin Cui, Liwei Wang, **Linfeng Song**, Xiaoyan Zhu, and Minlie Huang. ACL 2021 (Findings).
 
-* [Domain-Adaptive Pretraining Methods for Dialogue Understanding]() <br>
+* [TexSmart: A System for Enhanced Natural Language Understanding](https://aclanthology.org/2021.acl-demo.1.pdf) <br>
+Lemao Liu, Haisong Zhang, Haiyun Jiang, Yangming Li, Enbo Zhao, Kun Xu, **Linfeng Song**, Suncong Zheng, Botong Zhou, Dick Zhu, Xiao Feng, Tao Chen, Tao Yang, Dong Yu, Feng Zhang, ZhanHui Kang, Shuming Shi. ACL 2021 Demo Track.
+
+* [Domain-Adaptive Pretraining Methods for Dialogue Understanding](https://aclanthology.org/2021.acl-short.84.pdf) <br>
 Han Wu, Kun Xu, **Linfeng Song**, Lifeng Jin, Haisong Zhang, and Linqi Song.  ACL 2021 (Short).
 
 * [Video-aided Unsupervised Grammar Induction](https://arxiv.org/abs/2104.04369) <br>
