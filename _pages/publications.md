@@ -29,7 +29,7 @@ Xuefeng Bai, Yulong Chen, **Linfeng Song**, and Yue Zhang. ACL 2021.
 Pei Ke, Haozhe Ji, Yu Ran, Xin Cui, Liwei Wang, **Linfeng Song**, Xiaoyan Zhu, and Minlie Huang. ACL 2021 (Findings).
 
 * [TexSmart: A System for Enhanced Natural Language Understanding](https://aclanthology.org/2021.acl-demo.1.pdf) <br>
-Lemao Liu, Haisong Zhang, Haiyun Jiang, Yangming Li, Enbo Zhao, Kun Xu, **Linfeng Song**, Suncong Zheng, Botong Zhou, Dick Zhu, Xiao Feng, Tao Chen, Tao Yang, Dong Yu, Feng Zhang, ZhanHui Kang, Shuming Shi. ACL 2021 Demo Track.
+Lemao Liu, Haisong Zhang, Haiyun Jiang, Yangming Li, Enbo Zhao, Kun Xu, **Linfeng Song**, Suncong Zheng, Botong Zhou, Dick Zhu, Xiao Feng, Tao Chen, Tao Yang, Dong Yu, Feng Zhang, ZhanHui Kang, Shuming Shi. ACL 2021 (Demo Track).
 
 * [Domain-Adaptive Pretraining Methods for Dialogue Understanding](https://aclanthology.org/2021.acl-short.84.pdf) <br>
 Han Wu, Kun Xu, **Linfeng Song**, Lifeng Jin, Haisong Zhang, and Linqi Song.  ACL 2021 (Short).
