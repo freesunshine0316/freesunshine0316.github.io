@@ -37,6 +37,9 @@ Han Wu, Kun Xu, **Linfeng Song**, Lifeng Jin, Haisong Zhang, and Linqi Song.  AC
 * [Video-aided Unsupervised Grammar Induction](https://arxiv.org/abs/2104.04369) <br>
 Songyang Zhang, <b>Linfeng Song</b>, Lifeng Jin, Kun Xu, Dong Yu and Jiebo Luo. In <i> Proceedings of the 2021 Annual Conference of the North American Chapter of the Association for Computational Linguistics</i> (NAACL 2021, **Best Long Paper**).
 
+* [A Structure Self-Aware Model for Discourse Parsing on Multi-Party Dialogues](https://www.ijcai.org/proceedings/2021/0543.pdf) <br>
+Ante Wang\*, **Linfeng Song**\*, Hui Jiang, Shaopeng Lai, Junfeng Yao, Min Zhang, Jinsong Su. IJCAI 2021.
+
 ## 2020
 
 * [Robust Dialogue Utterance Rewriting as Sequence Tagging](https://arxiv.org/abs/2012.14535) <br>
