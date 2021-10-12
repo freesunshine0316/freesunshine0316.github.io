@@ -1,7 +1,7 @@
 ---
 title: 'Three Types of Research'
 date: 2021-10-12
-permalink: /posts/2021/10/3-research-types/
+permalink: /posts/2021/10/three-type-research/
 tags:
   - research general
 ---
