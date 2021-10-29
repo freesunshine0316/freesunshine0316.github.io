@@ -11,11 +11,11 @@ Three Types of Research
 ======
 
 It's been more than 2 years since graduating from my PhD program at U or R.
-During these years in Tencent AI Lab, I gradually recognize the following 3 types of research:
+During these years in Tencent AI Lab, I gradually recognize that research can generally be classified into the following 3 types of research:
 
 - **Prospective Research**
 
-This type of research basically prophecy the trend in the next 5 to 10 years. The primary goal here is to make something that is really novel. So their main contribution is not advancing the SOTA performance for tasks, though they do have to show some positive empirical results (or even SOTA performance in some minor tasks). Typical work is like the neural network papers before 2000. A few papers of this type will give huge influence to their field, but most are not.
+This type of research basically prophecy the trend in the next 5 or even 10 years. The primary goal here is to create something that is really novel. Their main contribution is not advancing the SOTA performance for tasks, though they do have to show some positive empirical results (or even SOTA performance in some minor tasks). Typical work is like the neural network papers (like the LSTM paper) before 2000. A few papers of this type will give huge influence to their field, but most are not.
 
 This type of research is mainly conducted in the universities. 
 
