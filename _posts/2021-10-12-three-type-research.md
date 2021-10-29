@@ -7,9 +7,6 @@ tags:
 ---
 
 
-Three Types of Research
-======
-
 It's been more than 2 years since graduating from my PhD program at U or R.
 During these years in Tencent AI Lab, I gradually recognize that research can generally be classified into the following 3 types of research:
 
