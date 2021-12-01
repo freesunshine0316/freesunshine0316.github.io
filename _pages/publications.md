@@ -10,11 +10,14 @@ author_profile: true
 
 ## 2021 
 
+* [Hierarchical Context Tagging for Utterance Rewriting]() <br>
+Lisa Jin, **Linfeng Song**, Lifeng Jin, Daniel Gildea, Dong Yu. To appear at AAAI 2022.
+
 * [RAST: Domain-Robust Dialogue Rewriting as Sequence Tagging]() <br>
-Jie Hao, **Linfeng Song**†, Liwei Wang, Kun Xu, Zhaopeng Tu, Dong Yu. To appear at EMNLP 2021.
+Jie Hao, **Linfeng Song**†, Liwei Wang, Kun Xu, Zhaopeng Tu, Dong Yu. EMNLP 2021.
 
 * [Instance-adaptive training with noise-robust losses against noisy labels]() <br>
-Lifeng Jin, **Linfeng Song**, Kun Xu, Dong Yu. To appear at EMNLP 2021.
+Lifeng Jin, **Linfeng Song**, Kun Xu, Dong Yu. EMNLP 2021.
 
 * [CASA: Conversational Aspect Sentiment Analysisfor Dialogue Understanding]() <br>
 **Linfeng Song**, Chunlei Xin, Shaopeng Lai, Ante Wang, Jinsong Su, and Kun Xu. To appear at JAIR 2021.
