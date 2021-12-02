@@ -8,10 +8,12 @@ author_profile: true
 [Google Scholar Profile](https://scholar.google.com/citations?user=yWZdmLYAAAAJ&hl=en)<br>
 (\* denotes equal contribution, † indicates corresponding author)
 
-## 2021 
+## 2022
 
 * [Hierarchical Context Tagging for Utterance Rewriting]() <br>
 Lisa Jin, **Linfeng Song**, Lifeng Jin, Daniel Gildea, Dong Yu. To appear at AAAI 2022.
+
+## 2021 
 
 * [RAST: Domain-Robust Dialogue Rewriting as Sequence Tagging]() <br>
 Jie Hao, **Linfeng Song**†, Liwei Wang, Kun Xu, Zhaopeng Tu, Dong Yu. EMNLP 2021.
