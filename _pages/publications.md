@@ -15,10 +15,10 @@ Lisa Jin, **Linfeng Song**, Lifeng Jin, Daniel Gildea, Dong Yu. To appear at AAA
 
 ## 2021 
 
-* [RAST: Domain-Robust Dialogue Rewriting as Sequence Tagging]() <br>
+* [RAST: Domain-Robust Dialogue Rewriting as Sequence Tagging](https://aclanthology.org/2021.emnlp-main.402.pdf) <br>
 Jie Hao, **Linfeng Song**†, Liwei Wang, Kun Xu, Zhaopeng Tu, Dong Yu. EMNLP 2021.
 
-* [Instance-adaptive training with noise-robust losses against noisy labels]() <br>
+* [Instance-adaptive training with noise-robust losses against noisy labels](https://aclanthology.org/2021.emnlp-main.457.pdf) <br>
 Lifeng Jin, **Linfeng Song**, Kun Xu, Dong Yu. EMNLP 2021.
 
 * [CASA: Conversational Aspect Sentiment Analysisfor Dialogue Understanding]() <br>
