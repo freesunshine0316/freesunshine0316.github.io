@@ -24,6 +24,9 @@ Lifeng Jin, **Linfeng Song**, Kun Xu, Dong Yu. EMNLP 2021.
 * [CASA: Conversational Aspect Sentiment Analysisfor Dialogue Understanding]() <br>
 **Linfeng Song**, Chunlei Xin, Shaopeng Lai, Ante Wang, Jinsong Su, and Kun Xu. To appear at JAIR 2021.
 
+* [Conversational Semantic Role Labeling](https://arxiv.org/abs/2104.04947) <br>
+Kun Xu, Han Wu, **Linfeng Song**, Haisong Zhang, Linqi Song, Dong Yu. TASLP 2021.
+
 * [End-to-End AMR Corefencence Resolution](https://aclanthology.org/2021.acl-long.324.pdf) <br>
 Qiankun Fu, **Linfeng Song**†, Wenyu Du, and Yue Zhang. ACL 2021. 
 
@@ -40,7 +43,7 @@ Lemao Liu, Haisong Zhang, Haiyun Jiang, Yangming Li, Enbo Zhao, Kun Xu, **Linfen
 Han Wu, Kun Xu, **Linfeng Song**, Lifeng Jin, Haisong Zhang, and Linqi Song.  ACL 2021 (Short).
 
 * [Video-aided Unsupervised Grammar Induction](https://arxiv.org/abs/2104.04369) <br>
-Songyang Zhang, <b>Linfeng Song</b>, Lifeng Jin, Kun Xu, Dong Yu and Jiebo Luo. NAACL 2021 (**Best Long Paper**).
+Songyang Zhang, **Linfeng Song**, Lifeng Jin, Kun Xu, Dong Yu and Jiebo Luo. NAACL 2021 (**Best Long Paper**).
 
 * [A Structure Self-Aware Model for Discourse Parsing on Multi-Party Dialogues](https://www.ijcai.org/proceedings/2021/0543.pdf) <br>
 Ante Wang\*, **Linfeng Song**\*, Hui Jiang, Shaopeng Lai, Junfeng Yao, Min Zhang, Jinsong Su. IJCAI 2021.
@@ -60,7 +63,7 @@ Kun Xu, Haochen Tan, <b>Linfeng Song</b>, Han Wu, Haisong Zhang, Linqi Song and 
 * [ZPR2: Joint Zero Pronoun Recovery and Resolution using Multi-Task Learning and BERT](https://freesunshine0316.github.io/files/ZPR2_ACL_2020_.pdf) <br>
 <b>Linfeng Song</b>, Kun Xu, Yue Zhang, Jianshu Chen and Dong Yu. In <i>Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics</i> (ACL 2020).
 * [Evidence Integration for Multi-hop Reading Comprehension with Graph Neural Networks](https://ieeexplore.ieee.org/abstract/document/9051845) <br>
-Linfeng Song, Zhiguo Wang, Mo Yu, Yue Zhang, Radu Florian and Daniel Gildea. In IEEE Transactions on Knowledge and Data Engineering (TKDE).
+<b>Linfeng Song</b>, Zhiguo Wang, Mo Yu, Yue Zhang, Radu Florian and Daniel Gildea. In IEEE Transactions on Knowledge and Data Engineering (TKDE).
 * [Relation Extraction Exploiting Full Dependency Forests](https://freesunshine0316.github.io/files/RE_parser_joint__AAAI_2020_.pdf) <br>
 Lifeng Jin\*, <b>Linfeng Song</b>\*, Yue Zhang, Kun Xu, Wei-yun Ma, and Dong Yu.
 In <i>Proceedings of Thirty-Fourth AAAI Conference on Artificial Intelligence</i> (AAAI-20), **Oral**.
