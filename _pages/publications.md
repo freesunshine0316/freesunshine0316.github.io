@@ -10,6 +10,9 @@ author_profile: true
 
 ## 2022
 
+* [CASA: Conversational Aspect Sentiment Analysis for Dialogue Understanding]() <br>
+**Linfeng Song**, Chunlei Xin, Shaopeng Lai, Ante Wang, Jinsong Su, and Kun Xu. To appear at JAIR 2022.
+
 * [Hierarchical Context Tagging for Utterance Rewriting]() <br>
 Lisa Jin, **Linfeng Song**, Lifeng Jin, Daniel Gildea, Dong Yu. To appear at AAAI 2022.
 
@@ -20,9 +23,6 @@ Jie Hao, **Linfeng Song**†, Liwei Wang, Kun Xu, Zhaopeng Tu, Dong Yu. EMNLP 20
 
 * [Instance-adaptive training with noise-robust losses against noisy labels](https://aclanthology.org/2021.emnlp-main.457.pdf) <br>
 Lifeng Jin, **Linfeng Song**, Kun Xu, Dong Yu. EMNLP 2021.
-
-* [CASA: Conversational Aspect Sentiment Analysisfor Dialogue Understanding]() <br>
-**Linfeng Song**, Chunlei Xin, Shaopeng Lai, Ante Wang, Jinsong Su, and Kun Xu. To appear at JAIR 2021.
 
 * [Conversational Semantic Role Labeling](https://arxiv.org/abs/2104.04947) <br>
 Kun Xu, Han Wu, **Linfeng Song**, Haisong Zhang, Linqi Song, Dong Yu. TASLP 2021.
