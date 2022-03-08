@@ -10,8 +10,11 @@ author_profile: true
 
 ## 2022
 
+* [Variational Graph Autoencoding as Cheap Supervision for AMR Coreference Resolution]() <br>
+Irene Li, **Linfeng Song**†, Kun Xu and Dong Yu. To appear at ACL 2022.
+
 * [Hierarchical Context Tagging for Utterance Rewriting]() <br>
-Lisa Jin, **Linfeng Song**, Lifeng Jin, Daniel Gildea, Dong Yu. To appear at AAAI 2022.
+Lisa Jin, **Linfeng Song**†, Lifeng Jin, Daniel Gildea, Dong Yu. AAAI 2022.
 
 * [CASA: Conversational Aspect Sentiment Analysis for Dialogue Understanding](https://jair.org/index.php/jair/article/view/12802/26767) <br>
 **Linfeng Song**, Chunlei Xin, Shaopeng Lai, Ante Wang, Jinsong Su, and Kun Xu. JAIR 2022.
