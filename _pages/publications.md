@@ -10,7 +10,7 @@ author_profile: true
 
 ## 2022
 
-* [Variational Graph Autoencoding as Cheap Supervision for AMR Coreference Resolution]() <br>
+* [Variational Graph Autoencoding as Cheap Supervision for AMR Coreference Resolution](https://aclanthology.org/2022.acl-long.199.pdf) <br>
 Irene Li, **Linfeng Song**†, Kun Xu and Dong Yu. To appear at ACL 2022.
 
 * [Hierarchical Context Tagging for Utterance Rewriting]() <br>
