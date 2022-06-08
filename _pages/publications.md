@@ -19,6 +19,9 @@ Lisa Jin, **Linfeng Song**†, Lifeng Jin, Daniel Gildea, Dong Yu. AAAI 2022.
 * [CASA: Conversational Aspect Sentiment Analysis for Dialogue Understanding](https://jair.org/index.php/jair/article/view/12802/26767) <br>
 **Linfeng Song**, Chunlei Xin, Shaopeng Lai, Ante Wang, Jinsong Su, and Kun Xu. JAIR 2022.
 
+* [A Multi-Level Optimization Framework for End-to-End Text Augmentation](https://direct.mit.edu/tacl/article/doi/10.1162/tacl_a_00464/110434/A-Multi-Level-Optimization-Framework-for-End-to) <br>
+Sai Ashish Somayajula, **Linfeng Song**, Pengtao Xie. TACL 2022.
+
 ## 2021 
 
 * [RAST: Domain-Robust Dialogue Rewriting as Sequence Tagging](https://aclanthology.org/2021.emnlp-main.402.pdf) <br>
@@ -55,27 +58,43 @@ Ante Wang\*, **Linfeng Song**\*, Hui Jiang, Shaopeng Lai, Junfeng Yao, Min Zhang
 
 * [Robust Dialogue Utterance Rewriting as Sequence Tagging](https://arxiv.org/abs/2012.14535) <br>
 Jie Hao, <b>Linfeng Song</b>, Liwei Wang, Kun Xu, Zhaopeng Tu, Dong Yu. (<b>Arxiv version of Hao et al., EMNLP 2021</b>)
+
 * [Rich Syntactic and Semantic Information Helps Unsupervised Text Style Transfer](https://www.aclweb.org/anthology/2020.inlg-1.17.pdf) <br>
-Hongyu Gong, <b>Linfeng Song</b> and Suma Bhat. In <i>Proceedings of the 2020 Conference on Natural Language Generation</i> (INLG 2020).
+Hongyu Gong, <b>Linfeng Song</b> and Suma Bhat.
+In <i>Proceedings of the 2020 Conference on Natural Language Generation</i> (INLG 2020).
+
 * [Online Back-Parsing for AMR-to-Text Generation](https://arxiv.org/abs/2010.04520) <br>
-Xuefeng Bai, <b>Linfeng Song</b> and Yue Zhang. In <i>Proceedings of the 2020 Conference on Empirical Methods in Natural Language Processing</i> (EMNLP 2020).
+Xuefeng Bai, <b>Linfeng Song</b> and Yue Zhang.
+In <i>Proceedings of the 2020 Conference on Empirical Methods in Natural Language Processing</i> (EMNLP 2020).
+
 * [Semantic Role Labeling Guided Multi-turn Dialogue ReWriter](https://arxiv.org/abs/2010.01417) <br>
-Kun Xu, Haochen Tan, <b>Linfeng Song</b>, Han Wu, Haisong Zhang, Linqi Song and Dong Yu. In <i>Proceedings of the 2020 Conference on Empirical Methods in Natural Language Processing</i> (EMNLP 2020).
+Kun Xu, Haochen Tan, <b>Linfeng Song</b>, Han Wu, Haisong Zhang, Linqi Song and Dong Yu.
+In <i>Proceedings of the 2020 Conference on Empirical Methods in Natural Language Processing</i> (EMNLP 2020).
+
 * [Structural Information Preserving for Graph-to-Text Generation](https://arxiv.org/abs/2102.06749) <br>
-<b>Linfeng Song</b>, Ante Wang, Jinsong Su, Yue Zhang, Kun Xu, Yubin Ge and Dong Yu. In <i>Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics</i> (ACL 2020).
+<b>Linfeng Song</b>, Ante Wang, Jinsong Su, Yue Zhang, Kun Xu, Yubin Ge and Dong Yu.
+In <i>Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics</i> (ACL 2020).
+
 * [ZPR2: Joint Zero Pronoun Recovery and Resolution using Multi-Task Learning and BERT](https://freesunshine0316.github.io/files/ZPR2_ACL_2020_.pdf) <br>
-<b>Linfeng Song</b>, Kun Xu, Yue Zhang, Jianshu Chen and Dong Yu. In <i>Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics</i> (ACL 2020).
+<b>Linfeng Song</b>, Kun Xu, Yue Zhang, Jianshu Chen and Dong Yu.
+In <i>Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics</i> (ACL 2020).
+
 * [Evidence Integration for Multi-hop Reading Comprehension with Graph Neural Networks](https://ieeexplore.ieee.org/abstract/document/9051845) <br>
-<b>Linfeng Song</b>, Zhiguo Wang, Mo Yu, Yue Zhang, Radu Florian and Daniel Gildea. In IEEE Transactions on Knowledge and Data Engineering (TKDE).
+<b>Linfeng Song</b>, Zhiguo Wang, Mo Yu, Yue Zhang, Radu Florian and Daniel Gildea.
+In IEEE Transactions on Knowledge and Data Engineering (TKDE).
+
 * [Relation Extraction Exploiting Full Dependency Forests](https://freesunshine0316.github.io/files/RE_parser_joint__AAAI_2020_.pdf) <br>
 Lifeng Jin\*, <b>Linfeng Song</b>\*, Yue Zhang, Kun Xu, Wei-yun Ma, and Dong Yu.
 In <i>Proceedings of Thirty-Fourth AAAI Conference on Artificial Intelligence</i> (AAAI-20), **Oral**.
+
 * [Coordinated Reasoning for Cross-Lingual Knowledge Graph Alignment](https://arxiv.org/abs/2001.08728) <br>
 Kun Xu, <b>Linfeng Song</b>, Yansong Feng, Yan Song, and Dong Yu.
 In <i>Proceedings of Thirty-Fourth AAAI Conference on Artificial Intelligence</i> (AAAI-20).
+
 * [Neural Simile Recognition with Cyclic Multitask Learning and Local Attention](https://arxiv.org/abs/1912.09084) <br>
 Jiali Zeng\*, <b>Linfeng Song</b>\*, Jinsong Su, Jun Xie, Wei Song, and Jiebo Luo.
 In <i>Proceedings of Thirty-Fourth AAAI Conference on Artificial Intelligence</i> (AAAI-20).
+
 * [Enhancing Pointer Network for Sentence Ordering with Pairwise Ordering Predictions]() <br>
 Yongjing Yin, Fandong Meng, Jinsong Su, Yubin Ge, <b>Linfeng Song</b>, Jie Zhou, and Jiebo Luo.
 In <i>Proceedings of Thirty-Fourth AAAI Conference on Artificial Intelligence</i> (AAAI-20).
@@ -91,15 +110,18 @@ In <i>Proceedings of the 57th Annual Meeting of the Association for Computationa
 * [Progressive Self-Supervised Attention Learning for Aspect-Level Sentiment Analysis](https://arxiv.org/abs/1906.01213) <br>
 Jialong Tang, Ziyao Lu, Jinsong Su, Yubin Ge, <b>Linfeng Song</b>, Le Sun and Jiebo Luo.
 In <i>Proceedings of the 57th Annual Meeting of the Association for Computational Linguistics</i> (ACL 2019).
+* [Semantic Neural Machine Translation using AMR](https://arxiv.org/abs/1902.07282) <br>
+<b>Linfeng Song</b>, Daniel Gildea, Yue Zhang, Zhiguo Wang and Jinsong Su. 
+In <i>Transaction of ACL 2019</i> (TACL 2019).
 * [Graph-based Neural Sentence Ordering](https://www.ijcai.org/Proceedings/2019/0748.pdf) <br>
 Yongjing Yin\*, <b>Linfeng Song</b>\*, Jinsong Su, Jiali Zeng, Chulun Zhou and Jiebo Luo.
 In <i>2019 International Joint Conference on Artificial Intelligence</i> (IJCAI 2019).
 * [Neural Collective Entity Linking Based on Recurrent Random Walk Network Learning](https://arxiv.org/abs/1906.09320) <br>
 Mengge Xue, Weiming Cai, Jinsong Su, <b>Linfeng Song</b>, Yubin Ge, Yubao Liu and Bin Wang.
 In <i>2019 International Joint Conference on Artificial Intelligence</i> (IJCAI 2019).
-* [Semantic Neural Machine Translation using AMR](https://arxiv.org/abs/1902.07282) <br>
-<b>Linfeng Song</b>, Daniel Gildea, Yue Zhang, Zhiguo Wang and Jinsong Su. 
-In <i>Transaction of ACL 2019</i> (TACL 2019).
+* [Multi-Granular Text Encoding for Self-Explaining Categorization](https://arxiv.org/abs/1907.08532) <br>
+Zhiguo Wang, Yue Zhang, Mo Yu, Wei Zhang, Lin Pan, <b>Linfeng Song</b>, Kun Xu, Yousef El-Kurdi.
+In BlackboxNLP 2019.
 
 ## 2018
 
