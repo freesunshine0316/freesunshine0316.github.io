@@ -10,8 +10,13 @@ author_profile: true
 
 ## 2022
 
+* [Learning a Grammar Inducer from Massive Uncurated Instructional Videos]() <br>
+Songyang Zhang, **Linfeng Song**, Lifeng Jin, Haitao Mi, Kun Xu, Dong Yu and Jiebo Luo. To appear at EMNLP 2022.
+
+* []
+
 * [Variational Graph Autoencoding as Cheap Supervision for AMR Coreference Resolution](https://aclanthology.org/2022.acl-long.199.pdf) <br>
-Irene Li, **Linfeng Song**†, Kun Xu and Dong Yu. To appear at ACL 2022.
+Irene Li, **Linfeng Song**†, Kun Xu and Dong Yu. ACL 2022.
 
 * [Hierarchical Context Tagging for Utterance Rewriting](https://arxiv.org/pdf/2206.11218.pdf) <br>
 Lisa Jin, **Linfeng Song**†, Lifeng Jin, Daniel Gildea, Dong Yu. AAAI 2022.
