@@ -13,6 +13,8 @@ I am currently a senior researcher at Tencent AI Lab working on Dialogue Modelin
 Recent News
 ======
 
+* 2022.10  We got 6 long papers accepted by EMNLP 2022, including 3 in Main and 3 in Findings.
+* 2022.07  I'm honored to serve as a senior area chair at EMNLP 2022.
 * 2022.03  Our paper "Variational Graph Autoencoding as Cheap Supervision for AMR Coreference Resolution" was accepted by ACL 2022.
 * 2021.12  Our paper "Hierarchical Context Tagging for Utterance Rewriting" was accepted by AAAI 2022.
 * 2021.09  We got 2 long papers and 1 paper accepted by EMNLP 2021 and JAIR.
