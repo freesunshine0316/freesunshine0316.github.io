@@ -18,7 +18,7 @@ Recent News
 * 2022.03  Our paper "Variational Graph Autoencoding as Cheap Supervision for AMR Coreference Resolution" was accepted by ACL 2022.
 * 2021.12  Our paper "Hierarchical Context Tagging for Utterance Rewriting" was accepted by AAAI 2022.
 * 2021.09  We got 2 long papers and 1 paper accepted by EMNLP 2021 and JAIR.
-* 2021.05  I'm so excited that our paper "[Video-aided Unsupervised Grammar Induction](https://arxiv.org/abs/2104.04369)" was selected as the <b><i>Best Long Paper</i></b> at the 2021 Annual Conference of the North American Chapter of the Association for Computational Linguistics (NAACL).
+* 2021.05  I'm so excited that our paper "[Video-aided Unsupervised Grammar Induction](https://arxiv.org/abs/2104.04369)" was selected as the <span style="color:red"><b>Best Long Paper</b></span> at the 2021 Annual Conference of the North American Chapter of the Association for Computational Linguistics (NAACL).
 * 2021.05  We got 4 papers accepted by ACL 2021(2 long and 1 short in the main track, 1 long in Findings).
 * 2021.04  We got 1 paper accepted by IJCAI 2021.
 * 2020.12  I'm honored to serve as a senior PC member (≈Area Chair) at IJCAI 2021.
