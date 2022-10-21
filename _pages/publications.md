@@ -11,7 +11,7 @@ author_profile: true
 ## 2022
 
 * [Learning a Grammar Inducer from Massive Uncurated Instructional Videos]() <br>
-Songyang Zhang, **Linfeng Song**, Lifeng Jin, Haitao Mi, Kun Xu, Jiebo Luo and Dong Yu. To appear at EMNLP 2022.
+Songyang Zhang, **Linfeng Song**, Lifeng Jin, Haitao Mi, Kun Xu, Dong Yu and Jiebo Luo. To appear at EMNLP 2022.
 
 * [Cross-lingual Text-to-SQL Semantic Parsing with Representation Mixup]() <br>
 Peng Shi, **Linfeng Song**, Lifeng Jin, Haitao Mi, He Bai, Jimmy Lin and Dong Yu. To appear at EMNLP 2022 (Findings).
