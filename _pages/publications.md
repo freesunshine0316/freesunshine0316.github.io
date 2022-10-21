@@ -11,19 +11,19 @@ author_profile: true
 ## 2022
 
 * [Learning a Grammar Inducer from Massive Uncurated Instructional Videos]() <br>
-Songyang Zhang, **Linfeng Song**, Lifeng Jin, Haitao Mi, Kun Xu, Dong Yu and Jiebo Luo. To appear at EMNLP 2022.
+Songyang Zhang, **Linfeng Song**, Lifeng Jin, Haitao Mi, Kun Xu, Jiebo Luo and Dong Yu. To appear at EMNLP 2022.
 
 * [Cross-lingual Text-to-SQL Semantic Parsing with Representation Mixup]() <br>
 Peng Shi, **Linfeng Song**, Lifeng Jin, Haitao Mi, He Bai, Jimmy Lin and Dong Yu. To appear at EMNLP 2022 (Findings).
 
 * [Augmenting Multi-Turn Text-to-SQL Datasets with Self-Play]() <br>
-Qi Liu, Zihuiwen Ye, Tao Yu, **Linfeng Song** and Phil Blunsom. To appear at EMNLP 2022 (Findings).
+Qi Liu, Zihuiwen Ye, Tao Yu, Phil Blunsom and **Linfeng Song**. To appear at EMNLP 2022 (Findings).
 
 * [Cross-domain Generalization for AMR Parsing]() <br>
 Xuefeng Bai, Sen Yang, Leyang Cui, **Linfeng Song** and Yue Zhang. To appear at EMNLP 2022.
 
 * [Getting the Most out of Simile Recognition]() <br>
-Xiaoyue Wang, **Linfeng Song**, Xin Liu, Chulun Zhou, Hualin Zeng and Jinsong Su. To appear at EMNLP 2022 (Findings).
+Xiaoyue Wang, **Linfeng Song**\*, Xin Liu, Chulun Zhou, Hualin Zeng and Jinsong Su. To appear at EMNLP 2022 (Findings).
 
 * [A Benchmark for Zero Pronoun Recovery and Translation]() <br>
 Mingzhou Xu, Longyue Wang, Derek F. Wong, Hongye Liu, **Linfeng Song**, Lidia S. Chao, Shuming Shi and Zhaopeng Tu. To appear at EMNLP 2022.
