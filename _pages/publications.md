@@ -11,7 +11,7 @@ author_profile: true
 ## 2023
 
 * [Search-Engine-augmented Dialogue Response Generation with Cheaply Supervised Query Production]() <br>
-Ante Wanga, **Linfeng Songb**\*, Qi Liu, Haitao Mi, Longyue Wang, Zhaopeng Tu, Jinsong Su and Dong Yu. To appear at AI 2023.
+Ante Wang, **Linfeng Song**\*, Qi Liu, Haitao Mi, Longyue Wang, Zhaopeng Tu, Jinsong Su and Dong Yu. To appear at AI.
 
 ## 2022
 
