@@ -8,25 +8,30 @@ author_profile: true
 [Google Scholar Profile](https://scholar.google.com/citations?user=yWZdmLYAAAAJ&hl=en)<br>
 (\* denotes equal contribution, † indicates corresponding author)
 
+## 2023
+
+* [Search-Engine-augmented Dialogue Response Generation with Cheaply Supervised Query Production]() <br>
+Ante Wanga, **Linfeng Songb**\*, Qi Liu, Haitao Mi, Longyue Wang, Zhaopeng Tu, Jinsong Su and Dong Yu. To appear at AI 2023.
+
 ## 2022
 
-* [Learning a Grammar Inducer from Massive Uncurated Instructional Videos]() <br>
-Songyang Zhang, **Linfeng Song**, Lifeng Jin, Haitao Mi, Kun Xu, Dong Yu and Jiebo Luo. To appear at EMNLP 2022.
+* [Learning a Grammar Inducer from Massive Uncurated Instructional Videos](https://arxiv.org/abs/2210.12309) <br>
+Songyang Zhang, **Linfeng Song**, Lifeng Jin, Haitao Mi, Kun Xu, Dong Yu and Jiebo Luo. EMNLP 2022.
 
 * [Cross-lingual Text-to-SQL Semantic Parsing with Representation Mixup]() <br>
-Peng Shi, **Linfeng Song**, Lifeng Jin, Haitao Mi, He Bai, Jimmy Lin and Dong Yu. To appear at EMNLP 2022 (Findings).
+Peng Shi, **Linfeng Song**, Lifeng Jin, Haitao Mi, He Bai, Jimmy Lin and Dong Yu. EMNLP 2022 (Findings).
 
-* [Augmenting Multi-Turn Text-to-SQL Datasets with Self-Play]() <br>
-Qi Liu, Zihuiwen Ye, Tao Yu, Phil Blunsom and **Linfeng Song**. To appear at EMNLP 2022 (Findings).
+* [Augmenting Multi-Turn Text-to-SQL Datasets with Self-Play](https://arxiv.org/abs/2210.12096) <br>
+Qi Liu, Zihuiwen Ye, Tao Yu, Phil Blunsom and **Linfeng Song**. EMNLP 2022 (Findings).
 
-* [Cross-domain Generalization for AMR Parsing]() <br>
-Xuefeng Bai, Sen Yang, Leyang Cui, **Linfeng Song** and Yue Zhang. To appear at EMNLP 2022.
+* [Cross-domain Generalization for AMR Parsing](https://arxiv.org/abs/2210.12445) <br>
+Xuefeng Bai, Sen Yang, Leyang Cui, **Linfeng Song** and Yue Zhang. EMNLP 2022.
 
-* [Getting the Most out of Simile Recognition]() <br>
-Xiaoyue Wang, **Linfeng Song**\*, Xin Liu, Chulun Zhou, Hualin Zeng and Jinsong Su. To appear at EMNLP 2022 (Findings).
+* [Getting the Most out of Simile Recognition](https://arxiv.org/abs/2211.05984) <br>
+Xiaoyue Wang, **Linfeng Song**\*, Xin Liu, Chulun Zhou, Hualin Zeng and Jinsong Su. EMNLP 2022 (Findings).
 
 * [A Benchmark for Zero Pronoun Recovery and Translation]() <br>
-Mingzhou Xu, Longyue Wang, Derek F. Wong, Hongye Liu, **Linfeng Song**, Lidia S. Chao, Shuming Shi and Zhaopeng Tu. To appear at EMNLP 2022.
+Mingzhou Xu, Longyue Wang, Derek F. Wong, Hongye Liu, **Linfeng Song**, Lidia S. Chao, Shuming Shi and Zhaopeng Tu. EMNLP 2022.
 
 * [Variational Graph Autoencoding as Cheap Supervision for AMR Coreference Resolution](https://aclanthology.org/2022.acl-long.199.pdf) <br>
 Irene Li, **Linfeng Song**†, Kun Xu and Dong Yu. ACL 2022.
