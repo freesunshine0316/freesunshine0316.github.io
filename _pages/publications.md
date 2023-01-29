@@ -18,7 +18,7 @@ Ante Wang, **Linfeng Song**\*, Qi Liu, Haitao Mi, Longyue Wang, Zhaopeng Tu, Jin
 * [Learning a Grammar Inducer from Massive Uncurated Instructional Videos](https://arxiv.org/abs/2210.12309) <br>
 Songyang Zhang, **Linfeng Song**, Lifeng Jin, Haitao Mi, Kun Xu, Dong Yu and Jiebo Luo. EMNLP 2022.
 
-* [Cross-lingual Text-to-SQL Semantic Parsing with Representation Mixup]() <br>
+* [Cross-lingual Text-to-SQL Semantic Parsing with Representation Mixup](https://preview.aclanthology.org/emnlp-22-ingestion/2022.findings-emnlp.388/) <br>
 Peng Shi, **Linfeng Song**, Lifeng Jin, Haitao Mi, He Bai, Jimmy Lin and Dong Yu. EMNLP 2022 (Findings).
 
 * [Augmenting Multi-Turn Text-to-SQL Datasets with Self-Play](https://arxiv.org/abs/2210.12096) <br>
@@ -30,7 +30,7 @@ Xuefeng Bai, Sen Yang, Leyang Cui, **Linfeng Song** and Yue Zhang. EMNLP 2022.
 * [Getting the Most out of Simile Recognition](https://arxiv.org/abs/2211.05984) <br>
 Xiaoyue Wang, **Linfeng Song**\*, Xin Liu, Chulun Zhou, Hualin Zeng and Jinsong Su. EMNLP 2022 (Findings).
 
-* [A Benchmark for Zero Pronoun Recovery and Translation]() <br>
+* [A Benchmark for Zero Pronoun Recovery and Translation](https://preview.aclanthology.org/emnlp-22-ingestion/2022.emnlp-main.774/) <br>
 Mingzhou Xu, Longyue Wang, Derek F. Wong, Hongye Liu, **Linfeng Song**, Lidia S. Chao, Shuming Shi and Zhaopeng Tu. EMNLP 2022.
 
 * [Variational Graph Autoencoding as Cheap Supervision for AMR Coreference Resolution](https://aclanthology.org/2022.acl-long.199.pdf) <br>
