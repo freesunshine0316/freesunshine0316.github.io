@@ -11,10 +11,10 @@ author_profile: true
 ## 2023
 
 * [OpenFact: Factuality Enhanced Open Knowledge Extraction]() <br>
-Linfeng Song, Ante Wang, Xiaoman Pan, Hongming Zhang, Dian Yu, Lifeng Jin, Haitao Mi, Jinsong Su, Yue Zhang and Dong Yu. To appear at TACL.
+**Linfeng Song**\*, Ante Wang\*, Xiaoman Pan, Hongming Zhang, Dian Yu, Lifeng Jin, Haitao Mi, Jinsong Su, Yue Zhang and Dong Yu. To appear at TACL.
 
 * [Search-Engine-augmented Dialogue Response Generation with Cheaply Supervised Query Production]() <br>
-Ante Wang, **Linfeng Song**\*, Qi Liu, Haitao Mi, Longyue Wang, Zhaopeng Tu, Jinsong Su and Dong Yu. To appear at AI.
+Ante Wang\*, **Linfeng Song**\*, Qi Liu, Haitao Mi, Longyue Wang, Zhaopeng Tu, Jinsong Su and Dong Yu. To appear at AI.
 
 ## 2022
 
@@ -31,7 +31,7 @@ Qi Liu, Zihuiwen Ye, Tao Yu, Phil Blunsom and **Linfeng Song**. EMNLP 2022 (Find
 Xuefeng Bai, Sen Yang, Leyang Cui, **Linfeng Song** and Yue Zhang. EMNLP 2022.
 
 * [Getting the Most out of Simile Recognition](https://arxiv.org/abs/2211.05984) <br>
-Xiaoyue Wang, **Linfeng Song**\*, Xin Liu, Chulun Zhou, Hualin Zeng and Jinsong Su. EMNLP 2022 (Findings).
+Xiaoyue Wang\*, **Linfeng Song**\*, Xin Liu, Chulun Zhou, Hualin Zeng and Jinsong Su. EMNLP 2022 (Findings).
 
 * [A Benchmark for Zero Pronoun Recovery and Translation](https://preview.aclanthology.org/emnlp-22-ingestion/2022.emnlp-main.774/) <br>
 Mingzhou Xu, Longyue Wang, Derek F. Wong, Hongye Liu, **Linfeng Song**, Lidia S. Chao, Shuming Shi and Zhaopeng Tu. EMNLP 2022.
