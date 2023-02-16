@@ -10,6 +10,9 @@ author_profile: true
 
 ## 2023
 
+* [OpenFact: Factuality Enhanced Open Knowledge Extraction]() <br>
+Linfeng Song, Ante Wang, Xiaoman Pan, Hongming Zhang, Dian Yu, Lifeng Jin, Haitao Mi, Jinsong Su, Yue Zhang and Dong Yu. To appear at TACL.
+
 * [Search-Engine-augmented Dialogue Response Generation with Cheaply Supervised Query Production]() <br>
 Ante Wang, **Linfeng Song**\*, Qi Liu, Haitao Mi, Longyue Wang, Zhaopeng Tu, Jinsong Su and Dong Yu. To appear at AI.
 
