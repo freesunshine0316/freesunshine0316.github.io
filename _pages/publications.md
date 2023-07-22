@@ -11,13 +11,13 @@ author_profile: true
 ## 2023
 
 * [Bi-level Finetuning with Task-dependent Similarity Structure for Low-resource Training](https://aclanthology.org/2023.findings-acl.544/)<br>
-* Sai Ashish Somayajula, Lifeng Jin, **Linfeng Song**, Haitao Mi and Dong Yu. ACL 2023.
+Sai Ashish Somayajula, Lifeng Jin, **Linfeng Song**, Haitao Mi and Dong Yu. ACL 2023.
 
 * [SafeConv: Explaining and Correcting Conversational Unsafe Behavior](https://aclanthology.org/2023.acl-long.2/)<br>
-* Mian Zhang, Lifeng Jin, **Linfeng Song**, Haitao Mi, Wenliang Chen and Dong Yu. ACL 2023.
+Mian Zhang, Lifeng Jin, **Linfeng Song**, Haitao Mi, Wenliang Chen and Dong Yu. ACL 2023.
 
 * [A Survey on Zero Pronoun Translation](https://aclanthology.org/2023.acl-long.187/)<br>
-* Longyue Wang, Siyou Liu, Mingzhou Xu, **Linfeng Song**, Shuming Shi and Zhaopeng Tu. ACL 2023.
+Longyue Wang, Siyou Liu, Mingzhou Xu, **Linfeng Song**, Shuming Shi and Zhaopeng Tu. ACL 2023.
 
 * [OpenFact: Factuality Enhanced Open Knowledge Extraction](https://direct.mit.edu/tacl/article/doi/10.1162/tacl_a_00569/116618) <br>
 **Linfeng Song**\*, Ante Wang\*, Xiaoman Pan, Hongming Zhang, Dian Yu, Lifeng Jin, Haitao Mi, Jinsong Su, Yue Zhang and Dong Yu. TACL 2023.
