@@ -10,6 +10,9 @@ author_profile: true
 
 ## 2023
 
+* [D<sup>2</sup>PSG: Multi-Party Dialogue Discourse Parsing as Sequence Generation](https://ieeexplore.ieee.org/document/10253479)<br>
+Ante Wang, **Linfeng Song**, Lifeng Jin, Junfeng Yao, Haitao Mi, Chen Lin, Jinsong Su and Dong Yu. TASLP 2023.
+
 * [Bi-level Finetuning with Task-dependent Similarity Structure for Low-resource Training](https://aclanthology.org/2023.findings-acl.544/)<br>
 Sai Ashish Somayajula, Lifeng Jin, **Linfeng Song**, Haitao Mi and Dong Yu. ACL 2023.
 
