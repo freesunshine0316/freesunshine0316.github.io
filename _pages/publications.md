@@ -10,6 +10,12 @@ author_profile: true
 
 ## 2023
 
+* [Domain Adaptation for Conversational Query Production with the RAG Model Feedback]()<br>
+Ante Wang, **Linfeng Song**, Ge Xu, Jinsong Su. EMNLP 2023.
+
+* [Discover, Explanation, Improvement: Automatic Slice Detection Framework for Natural Language Processing](https://arxiv.org/abs/2211.04476)<br>
+Wenyue Hua, Lifeng Jin, **Linfeng Song**, Haitao Mi, Yongfeng Zhang, Dong Yu. TACL 2023.
+
 * [D<sup>2</sup>PSG: Multi-Party Dialogue Discourse Parsing as Sequence Generation](https://ieeexplore.ieee.org/document/10253479)<br>
 Ante Wang, **Linfeng Song**, Lifeng Jin, Junfeng Yao, Haitao Mi, Chen Lin, Jinsong Su and Dong Yu. TASLP 2023.
 
