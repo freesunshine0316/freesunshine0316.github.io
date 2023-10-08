@@ -10,7 +10,7 @@ author_profile: true
 
 ## 2023
 
-* [Stabilizing RLHF through Advantage Model and Selective Rehearsal](https://arxiv.org/abs/2309.10202)
+* [Stabilizing RLHF through Advantage Model and Selective Rehearsal](https://arxiv.org/abs/2309.10202)<br>
 Baolin Peng\*, **Linfeng Song**\*, Ye Tian, Lifeng Jin, Haitao Mi, Dong Yu. Arxiv.
 
 * [Domain Adaptation for Conversational Query Production with the RAG Model Feedback]()<br>
