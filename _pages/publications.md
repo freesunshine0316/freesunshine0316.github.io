@@ -8,10 +8,15 @@ author_profile: true
 [Google Scholar Profile](https://scholar.google.com/citations?user=yWZdmLYAAAAJ&hl=en)<br>
 (\* denotes equal contribution, † indicates corresponding author)
 
-## 2023
+## 2024
 
 * [The Trickle-down Impact of Reward (In-)consistency on RLHF](https://arxiv.org/pdf/2309.16155.pdf)<br>
-Lingfeng Shen, Sihao Chen, **Linfeng Song**, Lifeng Jin, Baolin Peng, Haitao Mi, Daniel Khashabi, Dong Yu
+Lingfeng Shen, Sihao Chen, **Linfeng Song**, Lifeng Jin, Baolin Peng, Haitao Mi, Daniel Khashabi, Dong Yu. To appear at ICLR 2024.
+
+* [Response Enhanced Semi-Supervised Dialogue Query Generation]()<br>
+Jianheng Huang, Ante Wang, Linfeng Gao, **Linfeng Song**, Jinsong Su. To appear at AAAI 2024.
+
+## 2023
 
 * [Stabilizing RLHF through Advantage Model and Selective Rehearsal](https://arxiv.org/abs/2309.10202)<br>
 Baolin Peng\*, **Linfeng Song**\*, Ye Tian, Lifeng Jin, Haitao Mi, Dong Yu. Arxiv.
