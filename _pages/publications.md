@@ -11,10 +11,10 @@ author_profile: true
 ## 2024
 
 * [Fine-Grained Self-Endorsement Improves Factuality and Reasoning](https://arxiv.org/pdf/2402.15631.pdf)<br>
-Ante Wang, Linfeng Song, Baolin Peng, Ye Tian, Lifeng Jin, Haitao Mi, Jinsong Su, Dong Yu. Arxiv.
+Ante Wang, **Linfeng Song**, Baolin Peng, Ye Tian, Lifeng Jin, Haitao Mi, Jinsong Su, Dong Yu. Arxiv.
 
 * [Collaborative decoding of critical tokens for boosting factuality of large language models](https://arxiv.org/pdf/2402.17982.pdf)<br>
-Lifeng Jin, Baolin Peng, Linfeng Song, Haitao Mi, Ye Tian and Dong Yu. Arxiv.
+Lifeng Jin, Baolin Peng, **Linfeng Song**, Haitao Mi, Ye Tian and Dong Yu. Arxiv.
 
 * [The Trickle-down Impact of Reward (In-)consistency on RLHF](https://arxiv.org/pdf/2309.16155.pdf)<br>
 Lingfeng Shen, Sihao Chen, **Linfeng Song**, Lifeng Jin, Baolin Peng, Haitao Mi, Daniel Khashabi, Dong Yu. To appear at ICLR 2024.
