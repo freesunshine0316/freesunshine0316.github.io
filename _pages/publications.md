@@ -10,6 +10,9 @@ author_profile: true
 
 ## 2024
 
+* [Self-Consistency Boosts Calibration for Math Reasoning](https://arxiv.org/pdf/2403.09849.pdf)<br>
+Ante Wang, **Linfeng Song**, Ye Tian, Baolin Peng, Lifeng Jin, Haitao Mi, Jinsong Su, Dong Yu. Arxiv.
+
 * [Fine-Grained Self-Endorsement Improves Factuality and Reasoning](https://arxiv.org/pdf/2402.15631.pdf)<br>
 Ante Wang, **Linfeng Song**, Baolin Peng, Ye Tian, Lifeng Jin, Haitao Mi, Jinsong Su, Dong Yu. Arxiv.
 
