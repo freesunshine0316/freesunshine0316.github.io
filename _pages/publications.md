@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Selective Publications"
+title: "Selected Publications"
 permalink: /publications/
 author_profile: true
 ---
@@ -24,7 +24,6 @@ Xiaoying Zhang, Baolin Peng, Ye Tian, Jingyan Zhou, Lifeng Jin, **Linfeng Song**
 
 * [Mitigating Catastrophic Forgetting in Large Language Models with Self-Synthesized Rehearsal](https://arxiv.org/pdf/2403.01244v1.pdf)<br>
 Jianheng Huang, Leyang Cui, Ante Wang, Chengyi Yang, Xinting Liao, **Linfeng Song**, Junfeng Yao, Jinsong Su. Arxiv.
-
 
 * [The Trickle-down Impact of Reward (In-)consistency on RLHF](https://arxiv.org/pdf/2309.16155.pdf)<br>
 Lingfeng Shen, Sihao Chen, **Linfeng Song**, Lifeng Jin, Baolin Peng, Haitao Mi, Daniel Khashabi, Dong Yu. To appear at ICLR 2024.
