@@ -20,10 +20,10 @@ Ante Wang, **Linfeng Song**, Baolin Peng, Ye Tian, Lifeng Jin, Haitao Mi, Jinson
 Lifeng Jin, Baolin Peng, **Linfeng Song**, Haitao Mi, Ye Tian and Dong Yu. Arxiv.
 
 * [Self-Alignment for Factuality: Mitigating Hallucinations in LLMs via Self-Evaluation](https://arxiv.org/pdf/2402.09267.pdf)<br>
-Xiaoying Zhang, Baolin Peng, Ye Tian, Jingyan Zhou, Lifeng Jin, Linfeng Song, Haitao Mi, Helen Meng. Arxiv.
+Xiaoying Zhang, Baolin Peng, Ye Tian, Jingyan Zhou, Lifeng Jin, **Linfeng Song**, Haitao Mi, Helen Meng. Arxiv.
 
 * [Mitigating Catastrophic Forgetting in Large Language Models with Self-Synthesized Rehearsal](https://arxiv.org/pdf/2403.01244v1.pdf)<br>
-Jianheng Huang, Leyang Cui, Ante Wang, Chengyi Yang, Xinting Liao, Linfeng Song, Junfeng Yao, Jinsong Su. Arxiv.
+Jianheng Huang, Leyang Cui, Ante Wang, Chengyi Yang, Xinting Liao, **Linfeng Song**, Junfeng Yao, Jinsong Su. Arxiv.
 
 
 * [The Trickle-down Impact of Reward (In-)consistency on RLHF](https://arxiv.org/pdf/2309.16155.pdf)<br>
