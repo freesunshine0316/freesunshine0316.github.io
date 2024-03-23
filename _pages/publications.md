@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-[See Google Scholar Profile for Full Latest List](https://scholar.google.com/citations?hl=en&user=yWZdmLYAAAAJ&view_op=list_works&sortby=pubdate)<br>
+[See Google Scholar Profile for Full List](https://scholar.google.com/citations?hl=en&user=yWZdmLYAAAAJ&view_op=list_works&sortby=pubdate)<br>
 (\* denotes equal contribution, † indicates corresponding author)
 
 ## 2024
