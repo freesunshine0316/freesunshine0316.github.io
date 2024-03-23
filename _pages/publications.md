@@ -1,11 +1,11 @@
 ---
 layout: archive
-title: "Publications"
+title: "Selective Publications"
 permalink: /publications/
 author_profile: true
 ---
 
-[Google Scholar Profile](https://scholar.google.com/citations?user=yWZdmLYAAAAJ&hl=en)<br>
+[See Google Scholar Profile for Full Latest List](https://scholar.google.com/citations?hl=en&user=yWZdmLYAAAAJ&view_op=list_works&sortby=pubdate)<br>
 (\* denotes equal contribution, † indicates corresponding author)
 
 ## 2024
@@ -19,10 +19,17 @@ Ante Wang, **Linfeng Song**, Baolin Peng, Ye Tian, Lifeng Jin, Haitao Mi, Jinson
 * [Collaborative decoding of critical tokens for boosting factuality of large language models](https://arxiv.org/pdf/2402.17982.pdf)<br>
 Lifeng Jin, Baolin Peng, **Linfeng Song**, Haitao Mi, Ye Tian and Dong Yu. Arxiv.
 
+* [Self-Alignment for Factuality: Mitigating Hallucinations in LLMs via Self-Evaluation](https://arxiv.org/pdf/2402.09267.pdf)<br>
+Xiaoying Zhang, Baolin Peng, Ye Tian, Jingyan Zhou, Lifeng Jin, Linfeng Song, Haitao Mi, Helen Meng. Arxiv.
+
+* [Mitigating Catastrophic Forgetting in Large Language Models with Self-Synthesized Rehearsal](https://arxiv.org/pdf/2403.01244v1.pdf)<br>
+Jianheng Huang, Leyang Cui, Ante Wang, Chengyi Yang, Xinting Liao, Linfeng Song, Junfeng Yao, Jinsong Su. Arxiv.
+
+
 * [The Trickle-down Impact of Reward (In-)consistency on RLHF](https://arxiv.org/pdf/2309.16155.pdf)<br>
 Lingfeng Shen, Sihao Chen, **Linfeng Song**, Lifeng Jin, Baolin Peng, Haitao Mi, Daniel Khashabi, Dong Yu. To appear at ICLR 2024.
 
-* [Response Enhanced Semi-Supervised Dialogue Query Generation]()<br>
+* [Response Enhanced Semi-Supervised Dialogue Query Generation](https://arxiv.org/pdf/2312.12713.pdf)<br>
 Jianheng Huang, Ante Wang, Linfeng Gao, **Linfeng Song**, Jinsong Su. To appear at AAAI 2024.
 
 ## 2023
