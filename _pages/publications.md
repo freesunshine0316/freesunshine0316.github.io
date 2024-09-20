@@ -44,8 +44,11 @@ Jianheng Huang, Ante Wang, Linfeng Gao, **Linfeng Song**, Jinsong Su. AAAI 2024.
 
 ## 2023
 
-* [Domain Adaptation for Conversational Query Production with the RAG Model Feedback]()<br>
-Ante Wang, **Linfeng Song**, Ge Xu, Jinsong Su. EMNLP 2023.
+* [Domain Adaptation for Conversational Query Production with the RAG Model Feedback](https://aclanthology.org/2023.findings-emnlp.612/)<br>
+Ante Wang, **Linfeng Song**, Ge Xu, Jinsong Su. EMNLP 2023 (Findings).
+
+* [OpenFact: Factuality Enhanced Open Knowledge Extraction](https://direct.mit.edu/tacl/article/doi/10.1162/tacl_a_00569/116618) <br>
+**Linfeng Song**\*, Ante Wang\*, Xiaoman Pan, Hongming Zhang, Dian Yu, Lifeng Jin, Haitao Mi, Jinsong Su, Yue Zhang and Dong Yu. TACL 2023.
 
 * [Discover, Explanation, Improvement: Automatic Slice Detection Framework for Natural Language Processing](https://arxiv.org/abs/2211.04476)<br>
 Wenyue Hua, Lifeng Jin, **Linfeng Song**, Haitao Mi, Yongfeng Zhang, Dong Yu. TACL 2023.
@@ -54,16 +57,13 @@ Wenyue Hua, Lifeng Jin, **Linfeng Song**, Haitao Mi, Yongfeng Zhang, Dong Yu. TA
 Ante Wang, **Linfeng Song**, Lifeng Jin, Junfeng Yao, Haitao Mi, Chen Lin, Jinsong Su and Dong Yu. TASLP 2023.
 
 * [Bi-level Finetuning with Task-dependent Similarity Structure for Low-resource Training](https://aclanthology.org/2023.findings-acl.544/)<br>
-Sai Ashish Somayajula, Lifeng Jin, **Linfeng Song**, Haitao Mi and Dong Yu. ACL 2023.
+Sai Ashish Somayajula, Lifeng Jin, **Linfeng Song**, Haitao Mi and Dong Yu. ACL 2023 (Findings).
 
 * [SafeConv: Explaining and Correcting Conversational Unsafe Behavior](https://aclanthology.org/2023.acl-long.2/)<br>
 Mian Zhang, Lifeng Jin, **Linfeng Song**, Haitao Mi, Wenliang Chen and Dong Yu. ACL 2023.
 
 * [A Survey on Zero Pronoun Translation](https://aclanthology.org/2023.acl-long.187/)<br>
 Longyue Wang, Siyou Liu, Mingzhou Xu, **Linfeng Song**, Shuming Shi and Zhaopeng Tu. ACL 2023.
-
-* [OpenFact: Factuality Enhanced Open Knowledge Extraction](https://direct.mit.edu/tacl/article/doi/10.1162/tacl_a_00569/116618) <br>
-**Linfeng Song**\*, Ante Wang\*, Xiaoman Pan, Hongming Zhang, Dian Yu, Lifeng Jin, Haitao Mi, Jinsong Su, Yue Zhang and Dong Yu. TACL 2023.
 
 * [Search-Engine-augmented Dialogue Response Generation with Cheaply Supervised Query Production](https://arxiv.org/abs/2302.09300) <br>
 Ante Wang\*, **Linfeng Song**\*, Qi Liu, Haitao Mi, Longyue Wang, Zhaopeng Tu, Jinsong Su and Dong Yu. AI 2023.
