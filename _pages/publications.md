@@ -8,33 +8,41 @@ author_profile: true
 [See Google Scholar Profile for Full List](https://scholar.google.com/citations?hl=en&user=yWZdmLYAAAAJ&view_op=list_works&sortby=pubdate)<br>
 (\* denotes equal contribution, † indicates corresponding author)
 
-## 2024
+## Selected Papers and Arxivs
 
-* [Self-Consistency Boosts Calibration for Math Reasoning](https://arxiv.org/pdf/2403.09849.pdf)<br>
-Ante Wang, **Linfeng Song**, Ye Tian, Baolin Peng, Lifeng Jin, Haitao Mi, Jinsong Su, Dong Yu. Arxiv.
+* [Toward Self-Improvement of LLMs via Imagination, Searching, and Criticizing](https://huggingface.co/papers/2404.12253)<br>
+Ye Tian\*, Baolin Peng\*, **Linfeng Song**\*, Lifeng Jin, Dian Yu, Haitao Mi and Dong Yu. Arxiv.
 
-* [Fine-Grained Self-Endorsement Improves Factuality and Reasoning](https://arxiv.org/pdf/2402.15631.pdf)<br>
-Ante Wang, **Linfeng Song**, Baolin Peng, Ye Tian, Lifeng Jin, Haitao Mi, Jinsong Su, Dong Yu. Arxiv.
+* [LiteSearch: Efficacious Tree Search for LLM](https://huggingface.co/papers/2407.00320)<br>
+Ante Wang, **Linfeng Song**, Ye Tian, Baolin Peng, Dian Yu, Haitao Mi, Jinsong Su and Dong Yu. Arxiv.
+
+* [Stabilizing RLHF through Advantage Model and Selective Rehearsal](https://huggingface.co/papers/2309.10202)<br>
+Baolin Peng\*, **Linfeng Song**\*, Ye Tian, Lifeng Jin, Haitao Mi and Dong Yu. Arxiv.
 
 * [Collaborative decoding of critical tokens for boosting factuality of large language models](https://arxiv.org/pdf/2402.17982.pdf)<br>
 Lifeng Jin, Baolin Peng, **Linfeng Song**, Haitao Mi, Ye Tian and Dong Yu. Arxiv.
 
+## 2024
+
+* [Self-Consistency Boosts Calibration for Math Reasoning](https://arxiv.org/pdf/2403.09849.pdf)<br>
+Ante Wang, **Linfeng Song**, Ye Tian, Baolin Peng, Lifeng Jin, Haitao Mi, Jinsong Su, Dong Yu. EMNLP 2024 (Findings).
+
+* [Fine-Grained Self-Endorsement Improves Factuality and Reasoning](https://arxiv.org/pdf/2402.15631.pdf)<br>
+Ante Wang, **Linfeng Song**, Baolin Peng, Ye Tian, Lifeng Jin, Haitao Mi, Jinsong Su, Dong Yu. ACL 2024 (Findings).
+
 * [Self-Alignment for Factuality: Mitigating Hallucinations in LLMs via Self-Evaluation](https://arxiv.org/pdf/2402.09267.pdf)<br>
-Xiaoying Zhang, Baolin Peng, Ye Tian, Jingyan Zhou, Lifeng Jin, **Linfeng Song**, Haitao Mi, Helen Meng. Arxiv.
+Xiaoying Zhang, Baolin Peng, Ye Tian, Jingyan Zhou, Lifeng Jin, **Linfeng Song**, Haitao Mi, Helen Meng. ACL 2024.
 
 * [Mitigating Catastrophic Forgetting in Large Language Models with Self-Synthesized Rehearsal](https://arxiv.org/pdf/2403.01244v1.pdf)<br>
-Jianheng Huang, Leyang Cui, Ante Wang, Chengyi Yang, Xinting Liao, **Linfeng Song**, Junfeng Yao, Jinsong Su. Arxiv.
+Jianheng Huang, Leyang Cui, Ante Wang, Chengyi Yang, Xinting Liao, **Linfeng Song**, Junfeng Yao, Jinsong Su. ACL 2024.
 
 * [The Trickle-down Impact of Reward (In-)consistency on RLHF](https://arxiv.org/pdf/2309.16155.pdf)<br>
-Lingfeng Shen, Sihao Chen, **Linfeng Song**, Lifeng Jin, Baolin Peng, Haitao Mi, Daniel Khashabi, Dong Yu. To appear at ICLR 2024.
+Lingfeng Shen, Sihao Chen, **Linfeng Song**, Lifeng Jin, Baolin Peng, Haitao Mi, Daniel Khashabi, Dong Yu. ICLR 2024.
 
 * [Response Enhanced Semi-Supervised Dialogue Query Generation](https://arxiv.org/pdf/2312.12713.pdf)<br>
-Jianheng Huang, Ante Wang, Linfeng Gao, **Linfeng Song**, Jinsong Su. To appear at AAAI 2024.
+Jianheng Huang, Ante Wang, Linfeng Gao, **Linfeng Song**, Jinsong Su. AAAI 2024.
 
 ## 2023
-
-* [Stabilizing RLHF through Advantage Model and Selective Rehearsal](https://arxiv.org/abs/2309.10202)<br>
-Baolin Peng\*, **Linfeng Song**\*, Ye Tian, Lifeng Jin, Haitao Mi, Dong Yu. Arxiv.
 
 * [Domain Adaptation for Conversational Query Production with the RAG Model Feedback]()<br>
 Ante Wang, **Linfeng Song**, Ge Xu, Jinsong Su. EMNLP 2023.
