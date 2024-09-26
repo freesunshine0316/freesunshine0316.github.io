@@ -11,7 +11,7 @@ author_profile: true
 ## Selected Papers and Arxivs
 
 * [Toward Self-Improvement of LLMs via Imagination, Searching, and Criticizing](https://huggingface.co/papers/2404.12253)<br>
-Ye Tian\*, Baolin Peng\*, **Linfeng Song**\*, Lifeng Jin, Dian Yu, Haitao Mi and Dong Yu. Arxiv.
+Ye Tian\*, Baolin Peng\*, **Linfeng Song**\*, Lifeng Jin, Dian Yu, Haitao Mi and Dong Yu. Neurips 2024.
 
 * [LiteSearch: Efficacious Tree Search for LLM](https://huggingface.co/papers/2407.00320)<br>
 Ante Wang, **Linfeng Song**†, Ye Tian, Baolin Peng, Dian Yu, Haitao Mi, Jinsong Su and Dong Yu. Arxiv.
