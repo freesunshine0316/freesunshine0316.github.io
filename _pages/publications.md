@@ -8,7 +8,7 @@ author_profile: true
 [See Google Scholar Profile for Full List](https://scholar.google.com/citations?hl=en&user=yWZdmLYAAAAJ&view_op=list_works&sortby=pubdate)<br>
 (\* denotes equal contribution, † indicates corresponding author)
 
-## Selected Papers and Arxivs
+## Selected Papers on Search and RL
 
 * [Toward Self-Improvement of LLMs via Imagination, Searching, and Criticizing](https://huggingface.co/papers/2404.12253)<br>
 Ye Tian\*, Baolin Peng\*, **Linfeng Song**\*, Lifeng Jin, Dian Yu, Haitao Mi and Dong Yu. Neurips 2024.
