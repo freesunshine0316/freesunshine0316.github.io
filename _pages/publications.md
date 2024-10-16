@@ -10,6 +10,9 @@ author_profile: true
 
 ## Selected Papers on Search and RL
 
+* [Towards Self-Improvement of LLMs via MCTS: Leveraging Stepwise Knowledge with Curriculum Preference Learning](https://huggingface.co/papers/2410.06508)<br>
+Xiyao Wang, **Linfeng Song**, Ye Tian, Dian Yu, Baolin Peng, Haitao Mi, Furong Huang and Dong Yu. Arxiv.
+
 * [Toward Self-Improvement of LLMs via Imagination, Searching, and Criticizing](https://huggingface.co/papers/2404.12253)<br>
 Ye Tian\*, Baolin Peng\*, **Linfeng Song**\*, Lifeng Jin, Dian Yu, Haitao Mi and Dong Yu. Neurips 2024.
 
