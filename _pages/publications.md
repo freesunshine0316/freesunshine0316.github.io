@@ -17,7 +17,7 @@ Xiyao Wang, **Linfeng Song**, Ye Tian, Dian Yu, Baolin Peng, Haitao Mi, Furong H
 Ye Tian\*, Baolin Peng\*, **Linfeng Song**\*, Lifeng Jin, Dian Yu, Haitao Mi and Dong Yu. Neurips 2024.
 
 * [LiteSearch: Efficacious Tree Search for LLM](https://huggingface.co/papers/2407.00320)<br>
-Ante Wang, **Linfeng Song**†, Ye Tian, Baolin Peng, Dian Yu, Haitao Mi, Jinsong Su and Dong Yu. Arxiv.
+Ante Wang, **Linfeng Song**†, Ye Tian, Baolin Peng, Dian Yu, Haitao Mi, Jinsong Su and Dong Yu. AAAI 2025.
 
 * [Stabilizing RLHF through Advantage Model and Selective Rehearsal](https://huggingface.co/papers/2309.10202)<br>
 Baolin Peng\*, **Linfeng Song**\*, Ye Tian, Lifeng Jin, Haitao Mi and Dong Yu. Arxiv.
