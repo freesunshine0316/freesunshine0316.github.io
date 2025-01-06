@@ -10,6 +10,9 @@ author_profile: true
 
 ## Selected Papers on Search and RL
 
+* [HUNYUANPROVER: A Scalable Data Synthesis Framework and Guided Tree Search for Automated Theorem Proving](https://arxiv.org/abs/2412.20735)<br>
+Yang Li\*, Dong Du\*, **Linfeng Song**\*, Chen Li\*, Weikang Wang, Tao Yang, Haitao Mi. Arxiv.
+
 * [Towards Self-Improvement of LLMs via MCTS: Leveraging Stepwise Knowledge with Curriculum Preference Learning](https://huggingface.co/papers/2410.06508)<br>
 Xiyao Wang, **Linfeng Song**, Ye Tian, Dian Yu, Baolin Peng, Haitao Mi, Furong Huang and Dong Yu. Arxiv.
 
