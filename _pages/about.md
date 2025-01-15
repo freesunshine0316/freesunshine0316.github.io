@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a senior researcher at Tencent AI Lab working on Search and RL to improve the reasoning capability of LLMs. I am especially interested in improving the scaling efficiency of both Search and Learning. I have been working on NLP fields since 2010. I earned my Ph.D. degree from the Computer Science Department at the University of Rochester (UofR), advised by Professor [Daniel Gildea](https://scholar.google.com/citations?user=AAJjmoIAAAAJ&hl=en). I earned my master degree from the Institute of Computing Technology, Chinese Academy of Science (ICT/CAS), advised by Dr. [Qun Liu](https://scholar.google.com.sg/citations?user=2HhiGzcAAAAJ&hl=en).
+I am a senior researcher at Tencent AI Lab, specializing in Search and Reinforcement Learning (RL) to enhance the reasoning capabilities of large language models (LLMs). My research focuses on improving the scaling efficiency of both Search and Learning processes. I have been working in the field of Natural Language Processing (NLP) since 2010. I hold a Ph.D. in Computer Science from the University of Rochester (UofR), where I was advised by Professor [Daniel Gildea](https://scholar.google.com/citations?user=AAJjmoIAAAAJ&hl=en), and a master's degree from the Institute of Computing Technology, Chinese Academy of Sciences (ICT/CAS), under the mentorship of Dr. [Qun Liu](https://scholar.google.com.sg/citations?user=2HhiGzcAAAAJ&hl=en).
 
 Recent News
 ======
