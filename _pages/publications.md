@@ -14,7 +14,7 @@ author_profile: true
 Yang Li\*, Dong Du\*, **Linfeng Song**\*, Chen Li\*, Weikang Wang, Tao Yang, Haitao Mi. Arxiv.
 
 * [Towards Self-Improvement of LLMs via MCTS: Leveraging Stepwise Knowledge with Curriculum Preference Learning](https://huggingface.co/papers/2410.06508)<br>
-Xiyao Wang, **Linfeng Song**, Ye Tian, Dian Yu, Baolin Peng, Haitao Mi, Furong Huang and Dong Yu. Arxiv.
+Xiyao Wang, **Linfeng Song**†, Ye Tian, Dian Yu, Baolin Peng, Haitao Mi, Furong Huang and Dong Yu. Arxiv.
 
 * [Toward Self-Improvement of LLMs via Imagination, Searching, and Criticizing](https://huggingface.co/papers/2404.12253)<br>
 Ye Tian\*, Baolin Peng\*, **Linfeng Song**\*, Lifeng Jin, Dian Yu, Haitao Mi and Dong Yu. Neurips 2024.
@@ -25,10 +25,18 @@ Ante Wang, **Linfeng Song**†, Ye Tian, Baolin Peng, Dian Yu, Haitao Mi, Jinson
 * [Stabilizing RLHF through Advantage Model and Selective Rehearsal](https://huggingface.co/papers/2309.10202)<br>
 Baolin Peng\*, **Linfeng Song**\*, Ye Tian, Lifeng Jin, Haitao Mi and Dong Yu. Arxiv.
 
-* [Collaborative decoding of critical tokens for boosting factuality of large language models](https://arxiv.org/pdf/2402.17982.pdf)<br>
-Lifeng Jin, Baolin Peng, **Linfeng Song**, Haitao Mi, Ye Tian and Dong Yu. Arxiv.
+## 2025
+
+* [Thoughts Are All Over the Place: On the Underthinking of o1-Like LLMs](https://arxiv.org/pdf/2501.18585?)<br>
+Yue Wang, Qiuzhi Liu, Jiahao Xu, Tian Liang, Xingyu Chen, Zhiwei He, **Linfeng Song**, Dian Yu, Juntao Li, Zhuosheng Zhang, Rui Wang, Zhaopeng Tu, Haitao Mi, Dong Yu
 
 ## 2024
+
+* [Do not think that much for 2+ 3=? on the overthinking of o1-like LLMs](https://arxiv.org/pdf/2412.21187?)<br>
+Xingyu Chen, Jiahao Xu, Tian Liang, Zhiwei He, Jianhui Pang, Dian Yu, **Linfeng Song**, Qiuzhi Liu, Mengfei Zhou, Zhuosheng Zhang, Rui Wang, Zhaopeng Tu, Haitao Mi, Dong Yu. Arxiv.
+
+* [Collaborative decoding of critical tokens for boosting factuality of large language models](https://arxiv.org/pdf/2402.17982.pdf)<br>
+Lifeng Jin, Baolin Peng, **Linfeng Song**, Haitao Mi, Ye Tian and Dong Yu. Arxiv.
 
 * [Self-Consistency Boosts Calibration for Math Reasoning](https://arxiv.org/pdf/2403.09849.pdf)<br>
 Ante Wang, **Linfeng Song**, Ye Tian, Baolin Peng, Lifeng Jin, Haitao Mi, Jinsong Su, Dong Yu. EMNLP 2024 (Findings).
