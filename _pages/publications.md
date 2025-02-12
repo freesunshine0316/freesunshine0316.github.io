@@ -28,7 +28,10 @@ Baolin Peng\*, **Linfeng Song**\*, Ye Tian, Lifeng Jin, Haitao Mi and Dong Yu. A
 ## 2025
 
 * [Thoughts Are All Over the Place: On the Underthinking of o1-Like LLMs](https://arxiv.org/pdf/2501.18585?)<br>
-Yue Wang, Qiuzhi Liu, Jiahao Xu, Tian Liang, Xingyu Chen, Zhiwei He, **Linfeng Song**, Dian Yu, Juntao Li, Zhuosheng Zhang, Rui Wang, Zhaopeng Tu, Haitao Mi, Dong Yu
+Yue Wang, Qiuzhi Liu, Jiahao Xu, Tian Liang, Xingyu Chen, Zhiwei He, **Linfeng Song**, Dian Yu, Juntao Li, Zhuosheng Zhang, Rui Wang, Zhaopeng Tu, Haitao Mi, Dong Yu. Arxiv.
+
+* [Iterative Nash Policy Optimization: Aligning LLMs with General Preferences via No-Regret Learning](https://arxiv.org/pdf/2407.00617)<br>
+Yuheng Zhang, Dian Yu, Baolin Peng, **Linfeng Song**, Ye Tian, Mingyue Huo, Nan Jiang, Haitao Mi, Dong Yu. ICLR 2025.
 
 ## 2024
 
