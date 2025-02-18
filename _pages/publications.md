@@ -10,17 +10,20 @@ author_profile: true
 
 ## Selected Papers on Search and RL
 
+* [Don’t Get Lost in the Trees: Streamlining LLM Reasoning by Overcoming Tree Search Exploration Pitfalls](https://arxiv.org/pdf/2502.11183)<br>
+Ante Wang, **Linfeng Song**†, Ye Tian, Dian Yu, Haitao Mi, Xiangyu Duan, Zhaopeng Tu†, Jinsong Su† and Dong Yu. Arxiv.
+
 * [HUNYUANPROVER: A Scalable Data Synthesis Framework and Guided Tree Search for Automated Theorem Proving](https://arxiv.org/abs/2412.20735)<br>
 Yang Li\*, Dong Du\*, **Linfeng Song**\*, Chen Li\*, Weikang Wang, Tao Yang, Haitao Mi. Arxiv.
+
+* [LiteSearch: Efficacious Tree Search for LLM](https://huggingface.co/papers/2407.00320)<br>
+Ante Wang, **Linfeng Song**†, Ye Tian, Baolin Peng, Dian Yu, Haitao Mi, Jinsong Su† and Dong Yu. AAAI 2025.
 
 * [Towards Self-Improvement of LLMs via MCTS: Leveraging Stepwise Knowledge with Curriculum Preference Learning](https://huggingface.co/papers/2410.06508)<br>
 Xiyao Wang, **Linfeng Song**†, Ye Tian, Dian Yu, Baolin Peng, Haitao Mi, Furong Huang and Dong Yu. Arxiv.
 
 * [Toward Self-Improvement of LLMs via Imagination, Searching, and Criticizing](https://huggingface.co/papers/2404.12253)<br>
 Ye Tian\*, Baolin Peng\*, **Linfeng Song**\*, Lifeng Jin, Dian Yu, Haitao Mi and Dong Yu. Neurips 2024.
-
-* [LiteSearch: Efficacious Tree Search for LLM](https://huggingface.co/papers/2407.00320)<br>
-Ante Wang, **Linfeng Song**†, Ye Tian, Baolin Peng, Dian Yu, Haitao Mi, Jinsong Su† and Dong Yu. AAAI 2025.
 
 * [Stabilizing RLHF through Advantage Model and Selective Rehearsal](https://huggingface.co/papers/2309.10202)<br>
 Baolin Peng\*, **Linfeng Song**\*, Ye Tian, Lifeng Jin, Haitao Mi and Dong Yu. Arxiv.
