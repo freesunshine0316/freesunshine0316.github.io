@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a principle researcher at Tencent AI Lab, specializing in Search and Reinforcement Learning (RL) to enhance the reasoning capabilities of large language models (LLMs) and developing highly autonomous agents. I have been working in the field of Natural Language Processing (NLP) since 2010. I hold a Ph.D. in Computer Science from the University of Rochester (UofR), where I was advised by Professor [Daniel Gildea](https://scholar.google.com/citations?user=AAJjmoIAAAAJ&hl=en), and a master's degree from the Institute of Computing Technology, Chinese Academy of Sciences (ICT/CAS), under the mentorship of Dr. [Qun Liu](https://scholar.google.com.sg/citations?user=2HhiGzcAAAAJ&hl=en).
+I am a principle researcher at Tencent AI Lab, specializing in Search and Reinforcement Learning (RL) to enhance the reasoning capabilities of large language models (LLMs) and developing highly autonomous agents. I have been working in the field of Natural Language Processing (NLP) since 2010. I won the Best Long Paper Award (1 out of 350 accepted long research papers) at NAACL 2021. I hold a Ph.D. in Computer Science from the University of Rochester (UofR), where I was advised by Professor [Daniel Gildea](https://scholar.google.com/citations?user=AAJjmoIAAAAJ&hl=en), and a master's degree from the Institute of Computing Technology, Chinese Academy of Sciences (ICT/CAS), under the mentorship of Dr. [Qun Liu](https://scholar.google.com.sg/citations?user=2HhiGzcAAAAJ&hl=en).
 
 Recent News
 ======
