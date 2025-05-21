@@ -8,7 +8,7 @@ author_profile: true
 [See Google Scholar Profile for Full List](https://scholar.google.com/citations?hl=en&user=yWZdmLYAAAAJ&view_op=list_works&sortby=pubdate)<br>
 (\* denotes equal contribution, † indicates corresponding author)
 
-## Selected Papers on Automatic Theorem Proving
+## Papers on Automatic Theorem Proving
 
 * [HUNYUANPROVER: A Scalable Data Synthesis Framework and Guided Tree Search for Automated Theorem Proving](https://arxiv.org/abs/2412.20735)<br>
 Yang Li\*, Dong Du\*, **Linfeng Song**\*, Chen Li\*, Weikang Wang, Tao Yang, Haitao Mi. Arxiv.
@@ -16,7 +16,7 @@ Yang Li\*, Dong Du\*, **Linfeng Song**\*, Chen Li\*, Weikang Wang, Tao Yang, Hai
 * [MPS-Prover: Advancing Stepwise Theorem Proving by Multi-Perspective Search and Data Curation](https://arxiv.org/pdf/2505.10962)<br>
 Zhenwen Liang, **Linfeng Song**, Yang Li, Tao Yang, Feng Zhang, Haitao Mi, Dong Yu. Arxiv.
 
-## Selected Papers on Search and RL 
+## Papers on Search and RL 
 
 * [Don’t Get Lost in the Trees: Streamlining LLM Reasoning by Overcoming Tree Search Exploration Pitfalls](https://arxiv.org/pdf/2502.11183)<br>
 Ante Wang, **Linfeng Song**†, Ye Tian, Dian Yu, Haitao Mi, Xiangyu Duan, Zhaopeng Tu†, Jinsong Su† and Dong Yu. ACL 2025.
