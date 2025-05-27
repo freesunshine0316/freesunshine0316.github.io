@@ -13,7 +13,8 @@ I am a principle researcher at Tencent AI Lab, specializing in Search and Reinfo
 Recent News
 ======
 
-* 2024.11  Checkout our recent work on improving the scaling efficiency of search and learning: [AlphaLLM (Neurips 2024)](https://arxiv.org/pdf/2404.12253), [LiteSearch (AAAI 2025)](https://arxiv.org/pdf/2407.00320), [StepwiseCPL](https://arxiv.org/pdf/2410.06508) and [HunyuanProver](https://arxiv.org/abs/2412.20735).
+* 2025.05  Checkout our recent work on automatic theorem proving and math agent: [HunyuanProver](https://arxiv.org/abs/2412.20735) and [MPS-prover](https://arxiv.org/pdf/2505.10962).
+* 2024.11  Checkout our recent work on improving the scaling efficiency of search and learning: [AlphaLLM (Neurips 2024)](https://arxiv.org/pdf/2404.12253), [LiteSearch (AAAI 2025)](https://arxiv.org/pdf/2407.00320), [StepwiseCPL](https://arxiv.org/pdf/2410.06508) and [Don’t Get Lost in the Trees (ACL 2025)](https://arxiv.org/pdf/2502.11183).
 * 2024.02  I will serve as an Action Editor of ACL ARR in 2024.
 * 2023.09  Checkout our recent papers on industrial-level post-training practices: [Stabilizing RLHF](https://arxiv.org/pdf/2309.10202), [Collaborative Decoding](https://arxiv.org/pdf/2402.17982) and [Reward Stability in RLHF (ICLR 2024)](https://arxiv.org/pdf/2309.16155).
 * 2022.04  I'm honored to serve as a Senior Area Chair at EMNLP 2022.
