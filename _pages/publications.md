@@ -10,11 +10,14 @@ author_profile: true
 
 ## Selected Papers on Automatic Theorem Proving
 
+* [Towards Solving More Challenging IMO Problems via Decoupled Reasoning and Proving](https://arxiv.org/pdf/2507.06804)<br>
+Zhenwen Liang, **Linfeng Song**, Yang Li, Tao Yang, Feng Zhang, Haitao Mi and Dong Yu. Arxiv.
+
 * [MPS-Prover: Advancing Stepwise Theorem Proving by Multi-Perspective Search and Data Curation](https://arxiv.org/pdf/2505.10962)<br>
-Zhenwen Liang, **Linfeng Song**, Yang Li, Tao Yang, Feng Zhang, Haitao Mi, Dong Yu. Arxiv.
+Zhenwen Liang, **Linfeng Song**, Yang Li, Tao Yang, Feng Zhang, Haitao Mi and Dong Yu. Arxiv.
 
 * [HUNYUANPROVER: A Scalable Data Synthesis Framework and Guided Tree Search for Automated Theorem Proving](https://arxiv.org/abs/2412.20735)<br>
-Yang Li\*, Dong Du\*, **Linfeng Song**\*, Chen Li\*, Weikang Wang, Tao Yang, Haitao Mi. Arxiv.
+Yang Li\*, Dong Du\*, **Linfeng Song**\*, Chen Li\*, Weikang Wang, Tao Yang and Haitao Mi. Arxiv.
 
 ## Selected Papers on Search and RL 
 
@@ -43,11 +46,11 @@ Yuheng Zhang, Dian Yu, Baolin Peng, **Linfeng Song**, Ye Tian, Mingyue Huo, Nan 
 
 ## 2024
 
-* [Stabilizing RLHF through Advantage Model and Selective Rehearsal](https://huggingface.co/papers/2309.10202)<br>
-Baolin Peng\*, **Linfeng Song**\*, Ye Tian, Lifeng Jin, Haitao Mi and Dong Yu. Arxiv.
-
 * [Collaborative decoding of critical tokens for boosting factuality of large language models](https://arxiv.org/pdf/2402.17982.pdf)<br>
 Lifeng Jin, Baolin Peng, **Linfeng Song**, Haitao Mi, Ye Tian and Dong Yu. Arxiv.
+
+* [The Trickle-down Impact of Reward (In-)consistency on RLHF](https://arxiv.org/pdf/2309.16155.pdf)<br>
+Lingfeng Shen, Sihao Chen, **Linfeng Song**, Lifeng Jin, Baolin Peng, Haitao Mi, Daniel Khashabi, Dong Yu. ICLR 2024.
 
 * [Self-Consistency Boosts Calibration for Math Reasoning](https://arxiv.org/pdf/2403.09849.pdf)<br>
 Ante Wang, **Linfeng Song**, Ye Tian, Baolin Peng, Lifeng Jin, Haitao Mi, Jinsong Su, Dong Yu. EMNLP 2024 (Findings).
@@ -61,13 +64,13 @@ Xiaoying Zhang, Baolin Peng, Ye Tian, Jingyan Zhou, Lifeng Jin, **Linfeng Song**
 * [Mitigating Catastrophic Forgetting in Large Language Models with Self-Synthesized Rehearsal](https://arxiv.org/pdf/2403.01244v1.pdf)<br>
 Jianheng Huang, Leyang Cui, Ante Wang, Chengyi Yang, Xinting Liao, **Linfeng Song**, Junfeng Yao, Jinsong Su. ACL 2024.
 
-* [The Trickle-down Impact of Reward (In-)consistency on RLHF](https://arxiv.org/pdf/2309.16155.pdf)<br>
-Lingfeng Shen, Sihao Chen, **Linfeng Song**, Lifeng Jin, Baolin Peng, Haitao Mi, Daniel Khashabi, Dong Yu. ICLR 2024.
-
 * [Response Enhanced Semi-Supervised Dialogue Query Generation](https://arxiv.org/pdf/2312.12713.pdf)<br>
 Jianheng Huang, Ante Wang, Linfeng Gao, **Linfeng Song**, Jinsong Su. AAAI 2024.
 
 ## 2023
+
+* [Stabilizing RLHF through Advantage Model and Selective Rehearsal](https://huggingface.co/papers/2309.10202)<br>
+Baolin Peng\*, **Linfeng Song**\*, Ye Tian, Lifeng Jin, Haitao Mi and Dong Yu. Arxiv.
 
 * [Domain Adaptation for Conversational Query Production with the RAG Model Feedback](https://aclanthology.org/2023.findings-emnlp.612/)<br>
 Ante Wang, **Linfeng Song**, Ge Xu, Jinsong Su. EMNLP 2023 (Findings).
