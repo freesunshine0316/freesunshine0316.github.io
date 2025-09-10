@@ -8,12 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-I am a principle researcher at Tencent AI Lab, specializing in Search and Reinforcement Learning (RL) to enhance the reasoning capabilities of large language models (LLMs) and developing highly autonomous agents. I have been working in the field of Natural Language Processing (NLP) since 2010. I won the Best Long Paper Award (1 out of 350 accepted long research papers) at NAACL 2021. I hold a Ph.D. in Computer Science from the University of Rochester (UofR), where I was advised by Professor [Daniel Gildea](https://scholar.google.com/citations?user=AAJjmoIAAAAJ&hl=en), and a master's degree from the Institute of Computing Technology, Chinese Academy of Sciences (ICT/CAS), under the mentorship of Dr. [Qun Liu](https://scholar.google.com.sg/citations?user=2HhiGzcAAAAJ&hl=en).
+I am a principal researcher at Tencent AI Lab, specializing in Search and Reinforcement Learning (RL) to enhance the reasoning capabilities of large language models (LLMs) and developing highly autonomous agents. I have been working in the field of Natural Language Processing (NLP) since 2010. I won the Best Long Paper Award (1 out of 350 accepted long research papers) at NAACL 2021. I hold a Ph.D. in Computer Science from the University of Rochester (UofR), where I was advised by Professor [Daniel Gildea](https://scholar.google.com/citations?user=AAJjmoIAAAAJ&hl=en), and a master's degree from the Institute of Computing Technology, Chinese Academy of Sciences (ICT/CAS), under the mentorship of Dr. [Qun Liu](https://scholar.google.com.sg/citations?user=2HhiGzcAAAAJ&hl=en).
 
 Recent News
 ======
 
-* 2025.05  Checkout our recent work on automatic theorem proving and math agent: [HunyuanProver](https://arxiv.org/abs/2412.20735) and [MPS-prover](https://arxiv.org/pdf/2505.10962).
+* 2025.09  Checkout our work specifically on RLVR: [Curiosity Driven Exploration]() and [Crossing the Reward Bridge](https://arxiv.org/pdf/2503.23829)
+* 2025.07  Checkout our recent work on automatic theorem proving and math agent: [HunyuanProver](https://arxiv.org/abs/2412.20735), [MPS-prover](https://arxiv.org/pdf/2505.10962), [DRP-IMO](https://arxiv.org/pdf/2507.06804) and [EconProver]().
 * 2024.11  Checkout our recent work on improving the scaling efficiency of search and learning: [AlphaLLM (Neurips 2024)](https://arxiv.org/pdf/2404.12253), [LiteSearch (AAAI 2025)](https://arxiv.org/pdf/2407.00320), [StepwiseCPL](https://arxiv.org/pdf/2410.06508) and [Don’t Get Lost in the Trees (ACL 2025)](https://arxiv.org/pdf/2502.11183).
 * 2024.02  I will serve as an Action Editor of ACL ARR in 2024.
 * 2023.09  Checkout our recent papers on industrial-level post-training practices: [Stabilizing RLHF](https://arxiv.org/pdf/2309.10202), [Collaborative Decoding](https://arxiv.org/pdf/2402.17982) and [Reward Stability in RLHF (ICLR 2024)](https://arxiv.org/pdf/2309.16155).
