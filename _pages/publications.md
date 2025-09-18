@@ -50,7 +50,7 @@ Xingyu Chen, Jiahao Xu, Tian Liang, Zhiwei He, Jianhui Pang, Dian Yu, **Linfeng 
 Yue Wang, Qiuzhi Liu, Jiahao Xu, Tian Liang, Xingyu Chen, Zhiwei He, **Linfeng Song**, Dian Yu, Juntao Li, Zhuosheng Zhang, Rui Wang, Zhaopeng Tu, Haitao Mi, Dong Yu. Neurips 2025.
 
 * [Improving LLM General Preference Alignment via Optimistic Online Mirror Descent](https://arxiv.org/pdf/2502.16852)<br>
-Yuheng_Zhang, Dian Yu, Tao Ge, **Linfeng Song**, Zhichen Zeng, Haitao Mi, Nan Jiang, Dong Yu. Neurips 2025.
+Yuheng Zhang, Dian Yu, Tao Ge, **Linfeng Song**, Zhichen Zeng, Haitao Mi, Nan Jiang, Dong Yu. Neurips 2025.
 
 * [Iterative Nash Policy Optimization: Aligning LLMs with General Preferences via No-Regret Learning](https://arxiv.org/pdf/2407.00617)<br>
 Yuheng Zhang, Dian Yu, Baolin Peng, **Linfeng Song**, Ye Tian, Mingyue Huo, Nan Jiang, Haitao Mi, Dong Yu. ICLR 2025.
