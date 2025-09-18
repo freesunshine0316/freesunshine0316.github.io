@@ -43,18 +43,21 @@ Ye Tian\*, Baolin Peng\*, **Linfeng Song**\*, Lifeng Jin, Dian Yu, Haitao Mi and
 
 ## 2025
 
-* [Thoughts Are All Over the Place: On the Underthinking of o1-Like LLMs](https://arxiv.org/pdf/2501.18585?)<br>
-Yue Wang, Qiuzhi Liu, Jiahao Xu, Tian Liang, Xingyu Chen, Zhiwei He, **Linfeng Song**, Dian Yu, Juntao Li, Zhuosheng Zhang, Rui Wang, Zhaopeng Tu, Haitao Mi, Dong Yu. Arxiv.
-
-* [Do not think that much for 2+ 3=? on the overthinking of o1-like LLMs](https://arxiv.org/pdf/2412.21187?)<br>
+* [Do NOT Think That Much for 2+3=? On the Overthinking of o1-Like LLMs](https://arxiv.org/pdf/2412.21187)<br>
 Xingyu Chen, Jiahao Xu, Tian Liang, Zhiwei He, Jianhui Pang, Dian Yu, **Linfeng Song**, Qiuzhi Liu, Mengfei Zhou, Zhuosheng Zhang, Rui Wang, Zhaopeng Tu, Haitao Mi, Dong Yu. ICML 2025.
+
+* [Thoughts Are All Over the Place: On the Underthinking of o1-Like LLMs](https://arxiv.org/pdf/2501.18585)<br>
+Yue Wang, Qiuzhi Liu, Jiahao Xu, Tian Liang, Xingyu Chen, Zhiwei He, **Linfeng Song**, Dian Yu, Juntao Li, Zhuosheng Zhang, Rui Wang, Zhaopeng Tu, Haitao Mi, Dong Yu. Neurips 2025.
+
+* [Improving LLM General Preference Alignment via Optimistic Online Mirror Descent](https://arxiv.org/pdf/2502.16852)<br>
+Yuheng_Zhang, Dian Yu, Tao Ge, **Linfeng Song**, Zhichen Zeng, Haitao Mi, Nan Jiang, Dong Yu. Neurips 2025.
 
 * [Iterative Nash Policy Optimization: Aligning LLMs with General Preferences via No-Regret Learning](https://arxiv.org/pdf/2407.00617)<br>
 Yuheng Zhang, Dian Yu, Baolin Peng, **Linfeng Song**, Ye Tian, Mingyue Huo, Nan Jiang, Haitao Mi, Dong Yu. ICLR 2025.
 
 ## 2024
 
-* [Collaborative decoding of critical tokens for boosting factuality of large language models](https://arxiv.org/pdf/2402.17982.pdf)<br>
+* [Collaborative Decoding of Critical Tokens for Boosting Factuality of Large Language Models](https://arxiv.org/pdf/2402.17982.pdf)<br>
 Lifeng Jin, Baolin Peng, **Linfeng Song**, Haitao Mi, Ye Tian and Dong Yu. Arxiv.
 
 * [The Trickle-down Impact of Reward (In-)consistency on RLHF](https://arxiv.org/pdf/2309.16155.pdf)<br>
