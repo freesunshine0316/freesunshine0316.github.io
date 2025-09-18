@@ -24,7 +24,7 @@ Zhenwen Liang, **Linfeng Song**, Yang Li, Tao Yang, Feng Zhang, Haitao Mi and Do
 * [MPS-Prover: Advancing Stepwise Theorem Proving by Multi-Perspective Search and Data Curation](https://arxiv.org/pdf/2505.10962)<br>
 Zhenwen Liang, **Linfeng Song**, Yang Li, Tao Yang, Feng Zhang, Haitao Mi and Dong Yu. Neurips 2025.
 
-* [HUNYUANPROVER: A Scalable Data Synthesis Framework and Guided Tree Search for Automated Theorem Proving](https://arxiv.org/abs/2412.20735)<br>
+* [HunyuanProver: A Scalable Data Synthesis Framework and Guided Tree Search for Automated Theorem Proving](https://arxiv.org/abs/2412.20735)<br>
 Yang Li\*, Dong Du\*, **Linfeng Song**\*, Chen Li\*, Weikang Wang, Tao Yang and Haitao Mi. Arxiv.
 
 ## Selected Papers on Search and RL 
