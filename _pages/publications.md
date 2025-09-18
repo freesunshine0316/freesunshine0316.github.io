@@ -8,13 +8,21 @@ author_profile: true
 [See Google Scholar Profile for Full List](https://scholar.google.com/citations?hl=en&user=yWZdmLYAAAAJ&view_op=list_works&sortby=pubdate)<br>
 (\* denotes equal contribution, † indicates corresponding author)
 
+## RLVR and Agent
+
+* [CDE: Curiosity-Driven Exploration for Efficient Reinforcement Learning in Large Language Models](https://arxiv.org/pdf/2509.09675)<br>
+Runpeng Dai, **Linfeng Song**†, Haolin Liu, Zhenwen Liang, Dian Yu, Haitao Mi, Zhaopeng Tu, Rui Liu, Tong Zheng, Hongtu Zhu, Dong Yu. Arxiv.
+
 ## Selected Papers on Automatic Theorem Proving
+
+* [EconProver: Towards More Economical Test-Time Scaling for Automated Theorem Proving](https://arxiv.org/pdf/2509.12603)<br>
+Mukai Li, **Linfeng Song**†, Zhenwen Liang, Jiahao Xu, Shansan Gong, Qi Liu, Haitao Mi, Dong Yu. Arxiv.
 
 * [Towards Solving More Challenging IMO Problems via Decoupled Reasoning and Proving](https://arxiv.org/pdf/2507.06804)<br>
 Zhenwen Liang, **Linfeng Song**, Yang Li, Tao Yang, Feng Zhang, Haitao Mi and Dong Yu. Arxiv.
 
 * [MPS-Prover: Advancing Stepwise Theorem Proving by Multi-Perspective Search and Data Curation](https://arxiv.org/pdf/2505.10962)<br>
-Zhenwen Liang, **Linfeng Song**, Yang Li, Tao Yang, Feng Zhang, Haitao Mi and Dong Yu. Arxiv.
+Zhenwen Liang, **Linfeng Song**, Yang Li, Tao Yang, Feng Zhang, Haitao Mi and Dong Yu. Neurips 2025.
 
 * [HUNYUANPROVER: A Scalable Data Synthesis Framework and Guided Tree Search for Automated Theorem Proving](https://arxiv.org/abs/2412.20735)<br>
 Yang Li\*, Dong Du\*, **Linfeng Song**\*, Chen Li\*, Weikang Wang, Tao Yang and Haitao Mi. Arxiv.
