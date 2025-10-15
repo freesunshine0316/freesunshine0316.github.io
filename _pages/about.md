@@ -13,7 +13,7 @@ I am a principal researcher at Tencent AI Lab, specializing in Search and Reinfo
 Recent News
 ======
 
-* 2025.09  Checkout our work specifically on RLVR: [Curiosity Driven Exploration](https://arxiv.org/pdf/2509.09675), [Investigation for Entropy Collapse in RLVR](https://cake-dish-e3d.notion.site/Verifier-Rewards-Are-Not-Enough-the-Sparse-Binary-Reward-may-Trigger-Entropy-Collapse-in-RLVR-Train-286d6c62497f80e7b46dc873c2c76f2e) and [Crossing the Reward Bridge](https://arxiv.org/pdf/2503.23829)
+* 2025.09  Checkout our work specifically on RLVR: [Curiosity Driven Exploration](https://arxiv.org/pdf/2509.09675), [Investigation on Entropy Collapse in RLVR](https://cake-dish-e3d.notion.site/Verifier-Rewards-Are-Not-Enough-the-Sparse-Binary-Reward-may-Trigger-Entropy-Collapse-in-RLVR-Train-286d6c62497f80e7b46dc873c2c76f2e) and [Crossing the Reward Bridge](https://arxiv.org/pdf/2503.23829)
 * 2025.07  Checkout our recent work on automatic theorem proving and math agent: [HunyuanProver](https://arxiv.org/abs/2412.20735), [MPS-prover (Neurips 2025)](https://arxiv.org/pdf/2505.10962), [DRP-IMO](https://arxiv.org/pdf/2507.06804) and [EconProver](https://arxiv.org/pdf/2509.12603).
 * 2024.11  Checkout our recent work on improving the scaling efficiency of search and learning: [AlphaLLM (Neurips 2024)](https://arxiv.org/pdf/2404.12253), [LiteSearch (AAAI 2025)](https://arxiv.org/pdf/2407.00320), [StepwiseCPL](https://arxiv.org/pdf/2410.06508) and [Don’t Get Lost in the Trees (ACL 2025)](https://arxiv.org/pdf/2502.11183).
 * 2024.02  I will serve as an Action Editor of ACL ARR in 2024.
