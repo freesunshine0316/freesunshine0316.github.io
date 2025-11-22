@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Staff Engineer at Google, focusing on effective and efficient RL and post-training methods and the development of intelligent agent frameworks that are capable of leveraging dynamic tools to perform complex reasoning tasks (e.g., DeepResearch).
+I am a Staff Engineer at Google, focusing on effective and efficient RL and post-training methods to develop intelligent agents that are capable of leveraging dynamic tools to perform complex long-horizon tasks (e.g., DeepResearch).
 I was a Principal Researcher from Tencent AI Lab, working on LLM post-training and RL over reasoning and agentic tasks.
 I won the [Best Long Paper Award](https://2021.naacl.org/blog/best-paper-awards/) (1 out of 1250 long-paper submissions) at NAACL 2021. I hold a Ph.D. in Computer Science from the University of Rochester (UofR), where I was advised by Professor [Daniel Gildea](https://scholar.google.com/citations?user=AAJjmoIAAAAJ&hl=en), and a master's degree from the Institute of Computing Technology, Chinese Academy of Sciences (ICT/CAS), under the mentorship of Dr. [Qun Liu](https://scholar.google.com.sg/citations?user=2HhiGzcAAAAJ&hl=en).
 
